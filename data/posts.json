@@ -5,7 +5,7 @@
   "window_to": "2026-09-19T02:21:49.945425+00:00",
   "total": 693,
   "videos": 216,
-  "longform": 215,
+  "longform": 110,
   "authors": 592,
   "langs": {
    "zh": 116,
@@ -18,7 +18,9 @@
    "title": "读不懂也要读懂系列01｜GPT它爸，造了个不会聊天的 AI",
    "url": "https://x.com/dboy_yi2025/status/2100888192576880692",
    "handle": "dboy_yi2025"
-  }
+  },
+  "discussion": 367,
+  "longform_any": 215
  },
  "items": [
   {

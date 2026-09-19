@@ -105,10 +105,18 @@
 
   // ---------- render ----------
   function renderStats(meta) {
-    el("s-total").textContent = meta.total;
-    el("s-video").textContent = meta.videos;
-    el("s-long").textContent = meta.longform;
-    el("s-author").textContent = meta.authors;
+    // 与类型标签保持同一口径：视频优先，长文指「非视频的长文」，三者互斥
+    var all = state.all || [];
+    var v = 0, l = 0, seen = {};
+    all.forEach(function (it) {
+      if (it.video) v++;
+      else if (it.long) l++;
+      seen[it.handle] = 1;
+    });
+    el("s-total").textContent = all.length;
+    el("s-video").textContent = v;
+    el("s-long").textContent = l;
+    el("s-author").textContent = Object.keys(seen).length;
     var f = new Date(meta.window_from), t = new Date(meta.window_to);
     var p = function (n) { return (n < 10 ? "0" : "") + n; };
     var fmt = function (d) { return p(d.getMonth() + 1) + "/" + p(d.getDate()) + " " + p(d.getHours()) + ":" + p(d.getMinutes()); };
@@ -129,36 +137,70 @@
     }).join("");
   }
 
+  // 统计时忽略 exceptKey 这一维度，从而让各维度计数随其他已选条件联动
+  function baseMatch(it, exceptKey) {
+    if (exceptKey !== "type" && state.type !== "all" && typeOf(it) !== state.type) return false;
+    if (exceptKey !== "lang" && state.lang !== "all" && it.lang !== state.lang) return false;
+    if (exceptKey !== "tag" && state.tag !== "all" && (it.tags || []).indexOf(state.tag) < 0) return false;
+    return true;
+  }
+
+  function countDim(dim, value) {
+    var n = 0;
+    state.all.forEach(function (it) {
+      if (!baseMatch(it, dim)) return;
+      if (dim === "type") { if (typeOf(it) === value) n++; }
+      else if (dim === "lang") { if (it.lang === value) n++; }
+      else if ((it.tags || []).indexOf(value) >= 0) n++;
+    });
+    return n;
+  }
+
+  function totalDim(dim) {
+    var n = 0;
+    state.all.forEach(function (it) { if (baseMatch(it, dim)) n++; });
+    return n;
+  }
+
   function renderFilters() {
     var all = state.all;
-    var tVideo = all.filter(function (i) { return i.video; }).length;
-    var tLong = all.filter(function (i) { return !i.video && i.long; }).length;
-    var tPost = all.length - tVideo - tLong;
-    buildChips(el("typeChips"), [
-      { value: "all", label: "全部", count: all.length },
-      { value: "video", label: "演示视频", count: tVideo },
-      { value: "long", label: "长文", count: tLong },
-      { value: "post", label: "讨论", count: tPost }
-    ], "type");
 
+    // 若某维度当前选中项在新条件下已无结果，自动回退到「全部」
+    ["type", "lang", "tag"].forEach(function (dim) {
+      if (state[dim] !== "all" && countDim(dim, state[dim]) === 0) state[dim] = "all";
+    });
+
+    // 类型
+    var tOpts = [{ value: "all", label: "全部", count: totalDim("type") }];
+    [["video", "演示视频"], ["long", "长文"], ["post", "讨论"]].forEach(function (p) {
+      var c = countDim("type", p[0]);
+      if (c > 0 || state.type === p[0]) tOpts.push({ value: p[0], label: p[1], count: c });
+    });
+    buildChips(el("typeChips"), tOpts, "type");
+
+    // 语言
     var langs = {};
     all.forEach(function (i) { langs[i.lang] = (langs[i.lang] || 0) + 1; });
-    var langOpts = [{ value: "all", label: "全部", count: all.length }];
+    var langOpts = [{ value: "all", label: "全部", count: totalDim("lang") }];
     Object.keys(langs).sort(function (a, b) { return langs[b] - langs[a]; }).forEach(function (l) {
-      langOpts.push({ value: l, label: LANG_FULL[l] || l, count: langs[l] });
+      var c = countDim("lang", l);
+      if (c > 0 || state.lang === l) langOpts.push({ value: l, label: LANG_FULL[l] || l, count: c });
     });
     buildChips(el("langChips"), langOpts, "lang");
 
+    // 主题
     var tags = {};
     all.forEach(function (i) { (i.tags || []).forEach(function (t) { tags[t] = (tags[t] || 0) + 1; }); });
-    var tagOpts = [{ value: "all", label: "全部" }];
+    var tagOpts = [{ value: "all", label: "全部", count: totalDim("tag") }];
     Object.keys(tags).sort(function (a, b) { return tags[b] - tags[a]; }).forEach(function (t) {
-      tagOpts.push({ value: t, label: t, count: tags[t] });
+      var c = countDim("tag", t);
+      if (c > 0 || state.tag === t) tagOpts.push({ value: t, label: t, count: c });
     });
     buildChips(el("tagChips"), tagOpts, "tag");
   }
 
   function apply() {
+    renderFilters();
     var q = state.q.trim().toLowerCase();
     state.filtered = state.all.filter(function (i) {
       if (state.type !== "all" && typeOf(i) !== state.type) return false;
@@ -192,8 +234,6 @@
     if (!chip) return;
     var k = chip.getAttribute("data-k"), v = chip.getAttribute("data-v");
     state[k] = v;
-    Array.prototype.forEach.call(chip.parentNode.children, function (c) { c.classList.remove("on"); });
-    chip.classList.add("on");
     apply();
   });
 
@@ -216,9 +256,7 @@
       state.all = data.items || [];
       renderStats(data.meta || {});
       renderFeatured(state.all);
-      renderFilters();
-      state.filtered = state.all.slice();
-      renderGrid();
+      apply();
     })
     .catch(function (err) {
       el("grid").innerHTML = '<div class="empty">数据加载失败：' + esc(err.message) +
