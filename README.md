@@ -3,7 +3,7 @@
 > X（Twitter）上关于 **TypeSafe AI「系统一模型」Jev** 的长文与演示视频聚合。
 > 逐条保留**原帖链接**与**作者署名**，本站不转载、不二次托管任何内容。
 
-**[→ 打开聚合网页浏览全部内容](index.html)** ｜ **[结构化数据 data/posts.json](data/posts.json)**
+**[→ 打开聚合网页浏览全部内容](https://mizzlelover.github.io/jev-hub/)** ｜ **[结构化数据 data/posts.json](data/posts.json)**
 
 由 **谁是专家** 出品（小红书 / 微信公众号 / X 同名）。
 
