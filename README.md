@@ -1,22 +1,24 @@
-# JEV 24小时 · Awesome Jev
+# JEV HUB · Jev 聚合站
 
-> 过去 24 小时，X（Twitter）上关于 **TypeSafe AI「系统一模型」Jev** 的长文与演示视频聚合。
+> X（Twitter）上关于 **TypeSafe AI「系统一模型」Jev** 的长文与演示视频聚合，**每 6 小时自动更新**。
 > 逐条保留**原帖链接**与**作者署名**，本站不转载、不二次托管任何内容。
 
 **[→ 打开聚合网页浏览全部内容](index.html)** ｜ **[结构化数据 data/posts.json](data/posts.json)**
+
+由 **谁是专家** 出品（小红书 / 微信公众号 / X 同名）。
 
 ## 数据概览
 
 | 指标 | 数值 |
 | --- | --- |
-| 动态总数 | 693 |
-| 演示视频 | 216 |
-| 长文 | 110 |
-| 讨论 | 367 |
-| 参与作者 | 592 |
-| 语言分布 | 英文 499 · 中文 116 · 日文 73 · 韩文 2 · 阿拉伯文 3 |
-| 数据窗口 | 2026-09-18 02:21 ~ 2026-09-19 02:21（UTC） |
-| 抓取时间 | 2026-09-19 02:21 |
+| 动态总数 | 714 |
+| 演示视频 | 226 |
+| 长文 | 114 |
+| 讨论 | 374 |
+| 参与作者 | 604 |
+| 语言分布 | 英文 513 · 中文 122 · 日文 74 · 韩文 2 · 阿拉伯文 3 |
+| 数据跨度 | 2026-09-15 18:17 ~ 2026-09-19 02:19（UTC） |
+| 最近更新 | 2026-09-19 02:44（第 1 次自动更新） |
 
 ## 🐣 小白入门（先读这篇）
 
@@ -36,28 +38,38 @@
 
 ## ⭐ 编辑精选（按互动量）
 
+- After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI? I’ve spent the last 2 years in stealth building a ne… — [@CompleteSkeptic](https://x.com/CompleteSkeptic/status/2099925682726002904) · 2026-09-15 · `模型原理 · 成本速度`
+- found the perfect use case for @typesafeai Jev: instant compaction in 2026, why is compaction still a summarization prompt? Jev can make it instant by… — [@tamarajtran](https://x.com/tamarajtran/status/2100694549362553153) · 2026-09-17 · `智能体`
+- The gains aren’t free: Jev can't generate text Comparing Jev vs LLMs side-by-side makes the trade-off clear Fun fact: replacing sequential computation… — [@CompleteSkeptic](https://x.com/CompleteSkeptic/status/2099925684256899543) · 2026-09-15 · `编程开发 · 成本速度 · 评测对比`
+- Here's a 45-second TL;DR on Jev. I find the core idea beautifully simple, but the video made it really hard to understand. Hope you find it helpful. — [@MatijaSosic](https://x.com/MatijaSosic/status/2100190746389135772) · 2026-09-16 · `编程开发`
+- 【Breaking News】ChatGPT Co-Inventor Unveils New AI Model "Jev" After 2 Years of Stealth Development ・20-200x faster than LLMs, 40-400x cheaper ・Output … — [@ctgptlb](https://x.com/ctgptlb/status/2100120850754412967) · 2026-09-16 · `成本速度 · 评测对比`
+- jev is INSANE. in 40 seconds it broke down 724 live ads from 37 brands. every hook. every format. offer. cta. awareness stage. landing page mismatch. … — [@TheMattBerman](https://x.com/TheMattBerman/status/2100654891756589230) · 2026-09-17 · `成本速度`
+- we are officially out of stealth! join the frontier and get access to Jev on our website (link on profile) — [@typesafeai](https://x.com/typesafeai/status/2099944756931596454) · 2026-09-15
+- I created an EC real-time customer service demo using Jev and gpt-live-1. Even in the middle of a conversation, it immediately suggests recommended pr… — [@rinte0321](https://x.com/rinte0321/status/2100736454850908344) · 2026-09-17
 - New experiment: json-render + jev The future Generative UI is instant Your components, your actions, your design system Rendered in milliseconds — [@ctatedev](https://x.com/ctatedev/status/2101022101750571357) · 2026-09-18 · `编程开发 · 成本速度`
+- Jev by @typesafeai is now on OpenRouter, in beta. Jev is a System One model. Instead of generating text, it takes your app's state plus a typed questi… — [@OpenRouter](https://x.com/OpenRouter/status/2100744709589316009) · 2026-09-18 · `编程开发 · 模型原理`
 - All of the coolest Jev projects I could find on X today 🧵 — [@moritzkremb](https://x.com/moritzkremb/status/2100895894287839255) · 2026-09-18
-- 如何用上Jev： 1、官网申请加入waitlist，基本上申请当天能过。 🔗： https:// typesafe.ai 2、告诉你的Codex：安装npx skills add typesafe-ai/skills –skill typesafe-ai。 3、回到操作台，建立API Key。 4、… — [@harrisonitsme](https://x.com/harrisonitsme/status/2100799749192569167) · 2026-09-18 · `编程开发`
-- 卧槽，居然真有比Codex内置computer use更快的操作电脑的方式 我尝试用Codex+Jev打造了一个加强版computer use，我称之为「Jev Use」。比内置的更快更丝滑，token消耗却差不多 下面是我用「添加Mac日历事件」做了一个对比视频，同样的内容，明显可以看到Jev版本… — [@Saccc_c](https://x.com/Saccc_c/status/2100864907046768890) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
-- 很多人没看懂爆火的JEV是什么？ 所以我做了一个 50 秒的演示视频，带大家把海外刷屏的 JEV 以及它背后的底层架构看透👇（见下方视频） JEV 是前 OpenAI、参与 ChatGPT / RLHF 的 @CompleteSkeptic （Diogo Almeida）创办 @typesafeai… — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2100835307016905109) · 2026-09-18
-- i'm hiring a senior jev engineer at least 2 years of experience with jev is a requirement dm — [@LukeberryPi](https://x.com/LukeberryPi/status/2100907652502966481) · 2026-09-18
-- Jev was adopted faster than any other model in AI Gateway history. In the first day, @typesafeai reached ~13% of teams, 2x the GPT-5.6 family and 6x F… — [@vercel](https://x.com/vercel/status/2101077346203971900) · 2026-09-18 · `成本速度 · 评测对比`
-- Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. — [@TechCrunch](https://x.com/TechCrunch/status/2101022221774856412) · 2026-09-18 · `编程开发 · 成本速度`
-- 💥我靠！用GPT-6 Astra把Jev运行结构可视化，直接把 LLM 和 JEV 的差别钉死了！ 同一句：“网络一直连不上，请帮我处理。” LLM：一边在讲故事，一边在做判断。 🔹逐词元往下写 🔹前文决定下一词 🔹最后吐出一句完整话：「建议转给技术支持处理。」 🔹软件还得再解析这句话 — [@NFT_Chen](https://x.com/NFT_Chen/status/2100818090733052363) · 2026-09-18
-- 完全睡不着了....这个视频让你完全看懂JEV的恐怖能力 我实际演示了一下，用 JEV 和 DeepSeek 做同一个任务：从当天的海量实时新闻流里，为 15 个品牌快速匹配有没有适合借势的公关热点，并打上结构化意图分类标签 结果是：28 秒内，Jev 狂刷完了整整 428 — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2101000339948282090) · 2026-09-18
-- 💥我靠！这是目前看到的给 Jev 模型找到的最狠的真实用例！ Instant Compaction只删，不改写。 演示里 156k tokens 的 Claude Code 会话，Jev 逐条给 tool call 打分，瞬间压到 62k。 用户目标、精确报错、关键代码原文全在；过期 Read / … — [@NFT_Chen](https://x.com/NFT_Chen/status/2100884977001091174) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
-- Jev by @typesafeai is now on the Venice API, in beta. It answers, it doesn't write. Send it your app's state and typed questions. Get back a typed ans… — [@AskVenice](https://x.com/AskVenice/status/2101095644467511578) · 2026-09-18 · `编程开发 · 模型原理`
+- Jev from @typesafeai is on AI Gateway. Build agents that decide, route, score, and stop in milliseconds: 𝚊𝚠𝚊𝚒𝚝 𝚎𝚟𝚊𝚕𝚞𝚊𝚝𝚎({ 𝚖𝚘𝚍𝚎𝚕: '𝚝𝚢𝚙𝚎𝚜𝚊𝚏𝚎-𝚊𝚒/𝚓𝚎𝚟', 𝚜𝚝… — [@vercel_dev](https://x.com/vercel_dev/status/2100378959653507175) · 2026-09-17 · `编程开发 · 智能体 · 成本速度`
 
 
 ## 🎬 演示视频精选（Top 60）
 
+- After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI? I’ve spent the last 2 years in stealth building a ne… — [@CompleteSkeptic](https://x.com/CompleteSkeptic/status/2099925682726002904) · 2026-09-15 · `模型原理 · 成本速度`
+- found the perfect use case for @typesafeai Jev: instant compaction in 2026, why is compaction still a summarization prompt? Jev can make it instant by… — [@tamarajtran](https://x.com/tamarajtran/status/2100694549362553153) · 2026-09-17 · `智能体`
+- Here's a 45-second TL;DR on Jev. I find the core idea beautifully simple, but the video made it really hard to understand. Hope you find it helpful. — [@MatijaSosic](https://x.com/MatijaSosic/status/2100190746389135772) · 2026-09-16 · `编程开发`
+- jev is INSANE. in 40 seconds it broke down 724 live ads from 37 brands. every hook. every format. offer. cta. awareness stage. landing page mismatch. … — [@TheMattBerman](https://x.com/TheMattBerman/status/2100654891756589230) · 2026-09-17 · `成本速度`
+- we are officially out of stealth! join the frontier and get access to Jev on our website (link on profile) — [@typesafeai](https://x.com/typesafeai/status/2099944756931596454) · 2026-09-15
+- I created an EC real-time customer service demo using Jev and gpt-live-1. Even in the middle of a conversation, it immediately suggests recommended pr… — [@rinte0321](https://x.com/rinte0321/status/2100736454850908344) · 2026-09-17
 - New experiment: json-render + jev The future Generative UI is instant Your components, your actions, your design system Rendered in milliseconds — [@ctatedev](https://x.com/ctatedev/status/2101022101750571357) · 2026-09-18 · `编程开发 · 成本速度`
+- Jev by @typesafeai is now on OpenRouter, in beta. Jev is a System One model. Instead of generating text, it takes your app's state plus a typed questi… — [@OpenRouter](https://x.com/OpenRouter/status/2100744709589316009) · 2026-09-18 · `编程开发 · 模型原理`
+- Browser Use 接上 JEV 这速度太他妈吓人了吧？？ 过去大家看 GPT、Claude 操控浏览器，体验其实并不好，因为真的太慢了，中间还经常卡死... 因为让大模型写一堆长篇大论去操作网页，本质上就是杀鸡用牛刀 在网页上点按钮，本质上就是一个离散的多选题，根本不需要 AI 会写诗 JEV… — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2100628846240264348) · 2026-09-17
 - 卧槽，居然真有比Codex内置computer use更快的操作电脑的方式 我尝试用Codex+Jev打造了一个加强版computer use，我称之为「Jev Use」。比内置的更快更丝滑，token消耗却差不多 下面是我用「添加Mac日历事件」做了一个对比视频，同样的内容，明显可以看到Jev版本… — [@Saccc_c](https://x.com/Saccc_c/status/2100864907046768890) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
+- @OpenRouter 🤝 @typesafeai — [@typesafeai](https://x.com/typesafeai/status/2100747035746193598) · 2026-09-18
 - 很多人没看懂爆火的JEV是什么？ 所以我做了一个 50 秒的演示视频，带大家把海外刷屏的 JEV 以及它背后的底层架构看透👇（见下方视频） JEV 是前 OpenAI、参与 ChatGPT / RLHF 的 @CompleteSkeptic （Diogo Almeida）创办 @typesafeai… — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2100835307016905109) · 2026-09-18
 - 💥我靠！用GPT-6 Astra把Jev运行结构可视化，直接把 LLM 和 JEV 的差别钉死了！ 同一句：“网络一直连不上，请帮我处理。” LLM：一边在讲故事，一边在做判断。 🔹逐词元往下写 🔹前文决定下一词 🔹最后吐出一句完整话：「建议转给技术支持处理。」 🔹软件还得再解析这句话 — [@NFT_Chen](https://x.com/NFT_Chen/status/2100818090733052363) · 2026-09-18
 - 完全睡不着了....这个视频让你完全看懂JEV的恐怖能力 我实际演示了一下，用 JEV 和 DeepSeek 做同一个任务：从当天的海量实时新闻流里，为 15 个品牌快速匹配有没有适合借势的公关热点，并打上结构化意图分类标签 结果是：28 秒内，Jev 狂刷完了整整 428 — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2101000339948282090) · 2026-09-18
 - 💥我靠！这是目前看到的给 Jev 模型找到的最狠的真实用例！ Instant Compaction只删，不改写。 演示里 156k tokens 的 Claude Code 会话，Jev 逐条给 tool call 打分，瞬间压到 62k。 用户目标、精确报错、关键代码原文全在；过期 Read / … — [@NFT_Chen](https://x.com/NFT_Chen/status/2100884977001091174) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
+- 终于看到了大语言模型之后的一个新的模型范式 Jev 是系统1模型，极速响应，价格超低，但不经过语言系统，不能说话，完全客观，也不需要语言层面的对齐。 潜力很大，也许是通向 AGI 的另一条路。 — [@oran_ge](https://x.com/oran_ge/status/2100571760869699880) · 2026-09-17
 - Jev by @typesafeai is now on the Venice API, in beta. It answers, it doesn't write. Send it your app's state and typed questions. Get back a typed ans… — [@AskVenice](https://x.com/AskVenice/status/2101095644467511578) · 2026-09-18 · `编程开发 · 模型原理`
 - 这也太夸张了吧！学到了！！ 这拿来做竞品分析，简直有如神助！！ 37 个品牌、724 支广告，40 秒拆完！ 跑完一轮分析，成本0.09美元！！ 做竞品分析的朋友，看到这个真的很难不心动。 Jev 批量分析竞品广告，系统拆解背后的思路，从开头怎么吸引人，到最后怎么促成行动，覆盖六个维度： — [@yyyole](https://x.com/yyyole/status/2100879695017632025) · 2026-09-18
 - What is a decision model? Jev by @typesafeai answers yes/no and multiple-choice questions, with a confidence score. Much of software development are a… — [@OpenRouter](https://x.com/OpenRouter/status/2101061688338575739) · 2026-09-18 · `编程开发 · 成本速度 · 评测对比`
@@ -102,20 +114,14 @@
 - jev as an oxlint plugin — [@wobsoriano](https://x.com/wobsoriano/status/2101080178617471088) · 2026-09-18 · `工具资源`
 - introducing JevForm, a form that dynamically branches and chooses what to ask next usinng @typesafeai ’s Jev in my life i’ve made hundreds of forms wi… — [@TamirSPIRITT](https://x.com/TamirSPIRITT/status/2101079101997982037) · 2026-09-18 · `编程开发 · 成本速度`
 - Jev 和开源本地大模型到底哪个更强？🔥 肯定很多人有这个疑问，我就直接在本地部署了 Laya 模型，做一个系统性的测试 先说结果：准确率方面Jev 完胜，速度方面 Laya 模型完胜 我设计了 100 条真实事件场景去做测试，因为 — [@xiaomovps](https://x.com/xiaomovps/status/2101111530313933182) · 2026-09-19
-- Jev × GPT-6 Astra × H3 Max 有人用 Astra 创建了一个复杂的决策游戏： 通过不断做决策，让一座城市里的鲸鱼保持活力 GPT-6 Astra 负责设计世界 Jev 负责选择行动 H3 Max Turbo on fal 负责把每轮决策变成视频 最夸张的是： 所有 Jev 决… — [@GoSailGlobal](https://x.com/GoSailGlobal/status/2101101323835851137) · 2026-09-19
-- Jev 火了几天, 我才知道了, 是不是落伍了 ChatGPT 共同发明人 Diogo Almeida 出新模型 Jev。TypeSafe AI 做的。 先说清楚：Jev 不是聊天模型。专做结构化判断，给软件自动化用。片子里叫 System One。训练换了套叫 RLCD，不是 RLHF。 对比很直… — [@0xlangeai](https://x.com/0xlangeai/status/2100861756851748920) · 2026-09-18 · `模型原理`
-- okay Jev is an INSANE unlock, I just gave Mario a multiverse. built "Mario Never Dies" with @typesafeai 's Jev + microsandbox Jev picks every move and… — [@theappcypher](https://x.com/theappcypher/status/2101095181382721998) · 2026-09-18
-- wanted to see what happens when a few Jevs play Catan so I forked...after a while the Jevs just refuse to negotiate with each other and end up doing n… — [@sachpatro97](https://x.com/sachpatro97/status/2101064273187274838) · 2026-09-18 · `编程开发 · 游戏对战 · 工具资源 · 评测对比`
-- Lunch-time Jev vibes. Maybe smarter people can tell me if I'm on the right track. Gave Jev some eval questions to review my own bug mega audit and ens… — [@krispuckett](https://x.com/krispuckett/status/2101058974670000421) · 2026-09-18 · `评测对比`
-- Jev from TypeSafe AI ( @typesafeai ) is now available on Merge Gateway. Send unstructured state and a typed question, and Jev returns a typed decision… — [@merge_api](https://x.com/merge_api/status/2101059158770610467) · 2026-09-18 · `模型原理 · 成本速度`
-- Jev is now live on the Venice API. Watch it classify 24,000 Hacker News posts into 12 categories in about 2 minutes — [@sabrinaesaquino](https://x.com/sabrinaesaquino/status/2101102660997017747) · 2026-09-19 · `编程开发 · 内容审核`
-- jev scored 641 on zetamac in 120 seconds. it picked the answer's digits with no calculator involved. 93% right on the first guess. retries handled the… — [@krishras23](https://x.com/krishras23/status/2101109304296427622) · 2026-09-19
-- @typesafeai 's Jev controls the 2 hands and each finger to play the piano in real-time. Jev only "sees" what we see and plays this from the "note wate… — [@chandamamz](https://x.com/chandamamz/status/2101066294816920063) · 2026-09-18 · `成本速度`
-- Jev is the most powerful trading agent! I plugged this open-source repo and turned Jev into a 24/7 trading bot that reads the live order book, decides… — [@51bodila](https://x.com/51bodila/status/2101096030641238236) · 2026-09-18 · `编程开发 · 智能体 · 成本速度 · 工具资源 · 金融交易`
 
 
 ## 📝 长文精选（Top 50）
 
+- The gains aren’t free: Jev can't generate text Comparing Jev vs LLMs side-by-side makes the trade-off clear Fun fact: replacing sequential computation… — [@CompleteSkeptic](https://x.com/CompleteSkeptic/status/2099925684256899543) · 2026-09-15 · `编程开发 · 成本速度 · 评测对比`
+- 【Breaking News】ChatGPT Co-Inventor Unveils New AI Model "Jev" After 2 Years of Stealth Development ・20-200x faster than LLMs, 40-400x cheaper ・Output … — [@ctgptlb](https://x.com/ctgptlb/status/2100120850754412967) · 2026-09-16 · `成本速度 · 评测对比`
+- I hurriedly wrote a blog post. It's about Jev! The recently released "Jev" has become a huge topic of conversation, and in this post, I explain what s… — [@nasuvit_z](https://x.com/nasuvit_z/status/2100578308912283656) · 2026-09-17 · `编程开发 · 智能体`
+- 🔥码住：如何最快使用Jev模型？输入只要 $0.04 / 1M tokens，比 LLM 最高便宜 444.6 倍、快 193.6 倍！ Jev 已上 Vercel AI Gateway。状态进去，Boolean / Choice / Score + 概率直接出来，70–500ms 就能决定、路由、… — [@NFT_Chen](https://x.com/NFT_Chen/status/2100454607638179895) · 2026-09-17 · `成本速度`
 - 昨天整理了 14 个 Jev 项目， @yangyi 开玩笑说：「让 Codex 一个 goal 跑个 Jev 导航站。」 我真的让 Codex 去跑了，现在导航站已经上线： https:// logicrw.github.io/awesome-jev-pr ojects/ … 而且增加到 130+… — [@0xLogicrw](https://x.com/0xLogicrw/status/2100861912590205411) · 2026-09-18 · `编程开发 · 工具资源`
 - Yo! Brothers! Just from sleeping one night, the number of Jev-related GitHub repos has exploded!! I've compiled the ones with the most stars by genre!… — [@studio_yebisu](https://x.com/studio_yebisu/status/2101065176069886152) · 2026-09-18 · `编程开发 · 工具资源`
 - It’s been an absolutely insane 72 hours since @TypeSafe launched its first public model, Jev ~18 months ago, @CompleteSkeptic , @EGafni , and @hackgoo… — [@hardimanjames](https://x.com/hardimanjames/status/2101115795283628194) · 2026-09-19 · `成本速度`
@@ -153,38 +159,40 @@
 - I was reading up on some new AI tech and stumbled across something called "Jev" by TypeSafe AI. I am not selling or promoting anything here, just genu… — [@yanosheek](https://x.com/yanosheek/status/2101096532473008291) · 2026-09-18 · `成本速度`
 - my first test with jev, I directly replaced Optuna’s TPE sampler with jev output and ran the Kurobako performance benchmark for both optimization algo… — [@OctopusTakopi](https://x.com/OctopusTakopi/status/2101129236815946209) · 2026-09-19 · `编程开发 · 模型原理 · 成本速度 · 评测对比`
 - I just found this new program called Jev and it is pretty awesome. Here are some of the things it can do from the information I found out about it. Je… — [@Tyrone_Uzzell](https://x.com/Tyrone_Uzzell/status/2101065399882469502) · 2026-09-18 · `模型原理 · 工具资源`
+- the 13% number has a big asterisk: jev is free on the gateway until sept 25. it also doesn't write code or prose, so it's being compared against model… — [@aaliyaanX](https://x.com/aaliyaanX/status/2101129020700340434) · 2026-09-19 · `编程开发 · 内容审核 · 评测对比`
+- This week’s model window is live 🔥 𝐌𝐮𝐬𝐞 ( @Muse / @Meta ) — #1 US App Store. US + Canada only. Mac just dropped. (Still dead in Laos where I am 😭). 𝐉𝐞… — [@simon_bullows](https://x.com/simon_bullows/status/2101128233869812150) · 2026-09-19 · `评测对比`
 - Interesting day in AI… 1. Jev shows different network structures for fast classification. https:// typesafe.ai/blog/introduci ng-system-one-models-and… — [@hamishogilvy](https://x.com/hamishogilvy/status/2101112850471068129) · 2026-09-19 · `编程开发 · 成本速度 · 内容审核`
 - i built your SEO one from the thread, and re-ran it just now so these are real numbers. 7 pages for "typesafe jev": my draft plus the 6 that rank. fiv… — [@PrimeLineAI](https://x.com/PrimeLineAI/status/2101068780537520629) · 2026-09-18 · `编程开发`
 - **Live Jev findings — 2026-09-18** 89 live calls against ` https:// api.typesafe.ai/v1/systemone`, model `jev-1.13.0`. Raw data in `data/probe.json`, … — [@dholzric](https://x.com/dholzric/status/2101083448861397339) · 2026-09-18 · `编程开发 · 模型原理`
 - I’ve been watching the TypeSafe launch this week with some interest. Jev is not trying to be a better chatbot. It’s a bet that a lot of production AI … — [@IsaGoksu](https://x.com/IsaGoksu/status/2101065687087059188) · 2026-09-18 · `成本速度`
-- This week’s model window is live 🔥 𝐌𝐮𝐬𝐞 ( @Muse / @Meta ) — #1 US App Store. US + Canada only. Mac just dropped. (Still dead in Laos where I am 😭). 𝐉𝐞… — [@simon_bullows](https://x.com/simon_bullows/status/2101128233869812150) · 2026-09-19 · `评测对比`
 - yeah, though i do think a lot of the value of it comes from the integration simplicity and API design as a model-product. we've had open local models … — [@willcb](https://x.com/willcb/status/2101131390066835946) · 2026-09-19 · `编程开发 · 模型原理 · 工具资源`
 - TypeSafe Ai Jev vs AI Agent >AI Agent = employee It can talk, think, use tools, and perform tasks. >Jev = receptionist/traffic controller It quickly d… — [@ProfAdebay](https://x.com/ProfAdebay/status/2101084916775883084) · 2026-09-18 · `编程开发 · 智能体 · 成本速度 · 评测对比`
 - been messing with a tiny 0.6B model, trying to make it better at tool calling without paying for labels it answers each prompt a few times, have Jev p… — [@hsingh_txt](https://x.com/hsingh_txt/status/2101116940337004602) · 2026-09-19 · `编程开发 · 智能体 · 模型原理 · 内容审核`
-- Just launched AgentGhost 👻 An open-source SDK pairing Jev’s fast System One decisions by @typesafeai with deterministic enforcement for AI agent tools… — [@sh_karan_sh](https://x.com/sh_karan_sh/status/2101078536748769337) · 2026-09-18 · `编程开发 · 智能体 · 模型原理 · 成本速度 · 工具资源`
-- Everybody is arguing about which chat model "wins" 2026. Wrong fight. Jev is not trying to write you a prettier paragraph. TypeSafe shipped a System O… — [@juliench82](https://x.com/juliench82/status/2101068557404799353) · 2026-09-18 · `编程开发 · 模型原理`
-- missed jev release so now im panic integrating it into the CLI BUT there are some key orchestration primitives some rlly good devs alr dropped within … — [@networkfaggot](https://x.com/networkfaggot/status/2101075652179042437) · 2026-09-18 · `智能体 · 成本速度 · 评测对比`
-- made a color palette generator using jev, because why not? given the input, jev returns probabilities over ten hue families, scores for warmth / light… — [@fran_rimoldi](https://x.com/fran_rimoldi/status/2101084847548850410) · 2026-09-18 · `编程开发 · 模型原理`
-- TypeSafe’s $40M for Jev: skip chat, return bounded decisions. A lot of “agent” value is judgment between code and open-ended LLMs. Chat was the demo. … — [@TheNestVC](https://x.com/TheNestVC/status/2101087222003065136) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
 
 
 ## 🇨🇳 中文内容精选（Top 50）
 
+- Browser Use 接上 JEV 这速度太他妈吓人了吧？？ 过去大家看 GPT、Claude 操控浏览器，体验其实并不好，因为真的太慢了，中间还经常卡死... 因为让大模型写一堆长篇大论去操作网页，本质上就是杀鸡用牛刀 在网页上点按钮，本质上就是一个离散的多选题，根本不需要 AI 会写诗 JEV… — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2100628846240264348) · 2026-09-17
 - 如何用上Jev： 1、官网申请加入waitlist，基本上申请当天能过。 🔗： https:// typesafe.ai 2、告诉你的Codex：安装npx skills add typesafe-ai/skills –skill typesafe-ai。 3、回到操作台，建立API Key。 4、… — [@harrisonitsme](https://x.com/harrisonitsme/status/2100799749192569167) · 2026-09-18 · `编程开发`
 - 卧槽，居然真有比Codex内置computer use更快的操作电脑的方式 我尝试用Codex+Jev打造了一个加强版computer use，我称之为「Jev Use」。比内置的更快更丝滑，token消耗却差不多 下面是我用「添加Mac日历事件」做了一个对比视频，同样的内容，明显可以看到Jev版本… — [@Saccc_c](https://x.com/Saccc_c/status/2100864907046768890) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
+- Jev 太屌了！！！完全是模型的新方向+新范式。带来了太多不一样的东西。 用 OpenCLI 配合了下 Jev，爽到飞起。 以后其他大规模召回、AI推荐系统、实时交易，都可以用这个模型。 玩法太多了！ — [@jakevin7](https://x.com/jakevin7/status/2100530193538695565) · 2026-09-17
 - 很多人没看懂爆火的JEV是什么？ 所以我做了一个 50 秒的演示视频，带大家把海外刷屏的 JEV 以及它背后的底层架构看透👇（见下方视频） JEV 是前 OpenAI、参与 ChatGPT / RLHF 的 @CompleteSkeptic （Diogo Almeida）创办 @typesafeai… — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2100835307016905109) · 2026-09-18
+- 🔥码住：如何最快使用Jev模型？输入只要 $0.04 / 1M tokens，比 LLM 最高便宜 444.6 倍、快 193.6 倍！ Jev 已上 Vercel AI Gateway。状态进去，Boolean / Choice / Score + 概率直接出来，70–500ms 就能决定、路由、… — [@NFT_Chen](https://x.com/NFT_Chen/status/2100454607638179895) · 2026-09-17 · `成本速度`
 - 💥我靠！用GPT-6 Astra把Jev运行结构可视化，直接把 LLM 和 JEV 的差别钉死了！ 同一句：“网络一直连不上，请帮我处理。” LLM：一边在讲故事，一边在做判断。 🔹逐词元往下写 🔹前文决定下一词 🔹最后吐出一句完整话：「建议转给技术支持处理。」 🔹软件还得再解析这句话 — [@NFT_Chen](https://x.com/NFT_Chen/status/2100818090733052363) · 2026-09-18
 - 完全睡不着了....这个视频让你完全看懂JEV的恐怖能力 我实际演示了一下，用 JEV 和 DeepSeek 做同一个任务：从当天的海量实时新闻流里，为 15 个品牌快速匹配有没有适合借势的公关热点，并打上结构化意图分类标签 结果是：28 秒内，Jev 狂刷完了整整 428 — [@SUOHA_AI](https://x.com/SUOHA_AI/status/2101000339948282090) · 2026-09-18
 - 💥我靠！这是目前看到的给 Jev 模型找到的最狠的真实用例！ Instant Compaction只删，不改写。 演示里 156k tokens 的 Claude Code 会话，Jev 逐条给 tool call 打分，瞬间压到 62k。 用户目标、精确报错、关键代码原文全在；过期 Read / … — [@NFT_Chen](https://x.com/NFT_Chen/status/2100884977001091174) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
+- 终于看到了大语言模型之后的一个新的模型范式 Jev 是系统1模型，极速响应，价格超低，但不经过语言系统，不能说话，完全客观，也不需要语言层面的对齐。 潜力很大，也许是通向 AGI 的另一条路。 — [@oran_ge](https://x.com/oran_ge/status/2100571760869699880) · 2026-09-17
 - 🔥推荐！让 Codex 搭配 Jev 成双王炸，浏览器操作速度提升 5–10 倍！ 痛点很简单：Codex 自己点页面时，每一步都要读 DOM、推理、再调工具，来回一卡就是半天。 现在让 Jev 把「点、跳、切、滚」抢走，Codex 只负责想、输入、看图验收。 主要亮点： 🔹Jev 连续跑动作，Co… — [@NFT_Chen](https://x.com/NFT_Chen/status/2100911111327613104) · 2026-09-18 · `编程开发`
 - 这也太夸张了吧！学到了！！ 这拿来做竞品分析，简直有如神助！！ 37 个品牌、724 支广告，40 秒拆完！ 跑完一轮分析，成本0.09美元！！ 做竞品分析的朋友，看到这个真的很难不心动。 Jev 批量分析竞品广告，系统拆解背后的思路，从开头怎么吸引人，到最后怎么促成行动，覆盖六个维度： — [@yyyole](https://x.com/yyyole/status/2100879695017632025) · 2026-09-18
 - Langchain 的速度太快了，已经利用 Jev 增强 harness。 跟昨天讨论的一致，Jev 非常适合在既定 harness 中承担分析分类工作，例如 agent 路由，模型路由等螺丝钉工作。 — [@dongxi_nlp](https://x.com/dongxi_nlp/status/2100813094951748074) · 2026-09-18 · `智能体`
+- 这两天最火的新构架大模型 Jev，官方Waitlist填写地址 Vercel AI Gateway已经可以调用，明天抽空试试。 两个地址见评论区，建议收藏。 很多朋友在聊，但具体应用场景还需要挖掘。 — [@vista8](https://x.com/vista8/status/2100591235471966472) · 2026-09-17
 - 🔥 卧槽了，jev 简直太适合 codex 用户了，强烈建议 codex 用户去尝试下 jev 因为 jev 非常适合需要快速进行复杂决策和评估的场景，所以和 codex 的 computer use 功能简直是绝配。 直接把 jev 用作判官，指导 codex 快速操作你的电脑，既准确又节省 to… — [@alin_zone](https://x.com/alin_zone/status/2100883711260823912) · 2026-09-18 · `编程开发 · 智能体 · 成本速度`
 - 昨天整理了 14 个 Jev 项目， @yangyi 开玩笑说：「让 Codex 一个 goal 跑个 Jev 导航站。」 我真的让 Codex 去跑了，现在导航站已经上线： https:// logicrw.github.io/awesome-jev-pr ojects/ … 而且增加到 130+… — [@0xLogicrw](https://x.com/0xLogicrw/status/2100861912590205411) · 2026-09-18 · `编程开发 · 工具资源`
 - Jev模型的Waitlist提交后没多久就通过了。 也用Codex调用成功，但还没想到具体应用场景。 「Jev 是一个非常强的、高性价比的决策层」 让 AI 整理一份资料，要点总结下： 1. Jev 是一个专为软件自动化决策设计的模型，不能聊天、不能写文章，只做决策。 — [@vista8](https://x.com/vista8/status/2100775218830815554) · 2026-09-18 · `编程开发`
 - Jev 发布没几天，开源社区已经开始疯狂复刻了🔥 最值得推荐的五个模型： 1、Laya 421M：原生决策模型，支持 Mac 2、Decider-2B：最像 Jev，基于 Qwen3.5 3、NanoJev 0.6B：专门的 Decision Head 4、Reflex：Qwen3.5 + Dire… — [@xiaomovps](https://x.com/xiaomovps/status/2100923960493818177) · 2026-09-18 · `编程开发`
 - 用AI一定要试试Jev ：跳过聊天，直接输出带置信度的结构化决策。特定任务快193倍、便宜445倍；开源插件能快速压缩上下文，长任务告别越跑越“失忆”。 Jev上手很简单： 1、去 https:// TypeSafe.ai 申请资格 2、让 Codex 安装 TypeSafe Skill 3、在后台… — [@KKaWSB](https://x.com/KKaWSB/status/2101043826714661033) · 2026-09-18 · `编程开发`
 - Jev 🔥了 可是好多人连Jev是啥都不知道 没关系，看这一篇就够了！ 包教包会，不会顺着网线去打他 @GeekCatX — [@Lonely__MH](https://x.com/Lonely__MH/status/2100989922907959419) · 2026-09-18
+- Jev是一个决策小模型，但是从第一性原理来看 Jev真的不如离线设备跑一个 Qwen 3.8 Flash Next 或者离线小模型更香，这些离线模型除了可以做决策以外，还可以干很多其他的事情 当然我也相信社区很快就可以开发完全离线的 Jev 模型出来 那样很多自动化用电脑的方式就可以超快、隐私而且成… — [@manateelazycat](https://x.com/manateelazycat/status/2100610014683758896) · 2026-09-17
 - Jev 不写邮件，它只做一件更狠的事：判断这封邮件该不该发给这个人！ 700 个高意向线索 × 个性化文案 40 秒打完：预测回复、给置信度、抓人货错配 成本只有 $0.09 SDR 花两小时想的事，它当一次函数调用。 大模型负责写，Jev 负责判。 高置信自动发，低置信丢给真人。 GTM — [@NFT_Chen](https://x.com/NFT_Chen/status/2100973744919658605) · 2026-09-18
 - 不用等waitlist了 openrouter一个key就可以 https:// openrouter.ai/~typesafe/jev- latest … — [@GoSailGlobal](https://x.com/GoSailGlobal/status/2100783026494189896) · 2026-09-18 · `编程开发`
 - 这两天关于 Jev 这个模型的热度非常之高，甚至可以说是近半年我重点关注了英推以来，看到的原创内容密度最高的一次。 正好我过去一年一直在跑一个小项目，其中有一个环节就是要对每天出版的《人民日报》上的新闻做一个分类，判断每一篇文章中是否包含有湖北相关的元素。 一年跑下来，积累了接近 2 万 — [@libukai](https://x.com/libukai/status/2100984923926728920) · 2026-09-18
@@ -204,29 +212,30 @@
 - 这个 Jev 项目导航站收录的项目已经有 169 个了🚀 如果你拿到 Jev 的 API key，还不知道怎么玩，就先来这个网站找找灵感吧💡 — [@0xLogicrw](https://x.com/0xLogicrw/status/2101119455203848361) · 2026-09-19 · `编程开发`
 - Jev 生态 72 小时：从 46 条到 160 条 Jev 把「判断」变成了一个足够便宜、可以在代码里直接调用的原语。然后开发者社区在 72 小时内把这句话翻译成了项目。 一、最热的方向：上下文压缩 tamaratran/fast-jev-compaction 现在 3,169 星，是目前最大的 … — [@yibie](https://x.com/yibie/status/2101095525793616162) · 2026-09-18 · `成本速度`
 - Bespoke Labs 复刻 TypeSafe Jev 发布 Bespoke Nimble 作为 Open Jev，Bespoke Nimble 的数据、模型权重、训练配方全部公开，整个项目只花了两天时间“公开构建”。 @bespokelabsai 通过一个高质量的数据配方 + 极简推理工程，在“… — [@shao__meng](https://x.com/shao__meng/status/2101098840971776173) · 2026-09-18
-- 我还是觉得吧，jev 有点过热了。它很好，但要分场景。 决策最重要的不是做决定那一下，而是为决策所做的准备，提供的素材，以及背后的逻辑。 jev 模型自身的认知 + state 决定了它的上限。就看人类能如何组合这套原材料了。 此外，决策的产出是有重要意义的，毕竟这是决策嘛！那么，要不要对 jev — [@verysmallwoods](https://x.com/verysmallwoods/status/2101103890787598723) · 2026-09-19
 - 目前能用上Jev的3个途径： 1. 官网加入候选名单 https:// typesafe.ai 2. openrouter https:// openrouter.ai/typesafe/jev-1 .13#playground … 3. Vercel 的 AI Gateway https:// v… — [@akokoi1](https://x.com/akokoi1/status/2101101473560240482) · 2026-09-19
-- Jev @typesafeai 发布三天、刷屏 X 信息流！ 再回看一个月前 TypeSafe AI CEO @CompleteSkeptic 在 @aiDotEngineer 主题演讲「Jev Creator: Why RLCD beats RLHF」，每一段论证几乎都是 Jev 产品规格的铺垫！… — [@shao__meng](https://x.com/shao__meng/status/2101118333328495021) · 2026-09-19 · `模型原理`
+- 我还是觉得吧，jev 有点过热了。它很好，但要分场景。 决策最重要的不是做决定那一下，而是为决策所做的准备，提供的素材，以及背后的逻辑。 jev 模型自身的认知 + state 决定了它的上限。就看人类能如何组合这套原材料了。 此外，决策的产出是有重要意义的，毕竟这是决策嘛！那么，要不要对 jev — [@verysmallwoods](https://x.com/verysmallwoods/status/2101103890787598723) · 2026-09-19
 - 我个人感觉 Jev 的护城河不够宽，很快各大厂商就可以出自己的 -type 模型 — [@interjc](https://x.com/interjc/status/2101105340679086091) · 2026-09-19
+- Jev @typesafeai 发布三天、刷屏 X 信息流！ 再回看一个月前 TypeSafe AI CEO @CompleteSkeptic 在 @aiDotEngineer 主题演讲「Jev Creator: Why RLCD beats RLHF」，每一段论证几乎都是 Jev 产品规格的铺垫！… — [@shao__meng](https://x.com/shao__meng/status/2101118333328495021) · 2026-09-19 · `模型原理`
 - Jev 把 GPT-5.6 和 Fable 的首日采用速度远远甩开了。 Vercel 说，Jev 已经成了 AI Gateway 历史上采用最快的新模型。 上线第一天，大约 13% 的付费团队用过 Jev。这个比例是 GPT-5.6 家族的两倍，Fable 5.1 的六倍。 Jev 做的事情其实很窄… — [@sleepy0x13](https://x.com/sleepy0x13/status/2101108081807532465) · 2026-09-19
 - 白名单加入➕ @typesafeai https:// typesafe.ai/manifesto — [@AntCaveClub](https://x.com/AntCaveClub/status/2101129426390093850) · 2026-09-19
 - 我也在做类似的事情，Jev 在这种场景还是太慢 — [@BohuTANG](https://x.com/BohuTANG/status/2101123215607373978) · 2026-09-19
-- Jev 这么火，在 x 上刷屏了， 那么下周的《100 个问题》就有选题了， 让子弹飞一会，别口嗨， 到时候我倒要看看用在哪里、怎么用、效果如何， 目前我刷了几个帖子来看， Jev 是一个经典的多元分类器， 处理逻辑和输出约束的情况下， 某种程度上讲，Jev 更接近传统机器学习模型，而非大语言模型，… — [@AgiRay1015](https://x.com/AgiRay1015/status/2101118459128266926) · 2026-09-19
 - 据说现在玩 TypeSafe 的 Jev 是赶时髦？ — [@zzxwill](https://x.com/zzxwill/status/2101115530203808252) · 2026-09-19
-- 技术没搞懂，但是 Typesafe 的网页设计风格我很喜欢 — [@Jackywine](https://x.com/Jackywine/status/2101118780101546134) · 2026-09-19
-- 欸 這兩天信箱與私訊裏塞滿各種詢問 jev 與 #agentflow 整合的可能性，請容我在此一次回答：是的，我知道 jev 的存在，也已研究幾天，目前看來它是個很快速的 decision classifier，適用於某些有特定答案的決策情境，我已在評估適當的整合方式，如果最終結果有搞頭一定立即發新… — [@cat88tw](https://x.com/cat88tw/status/2101098482690142365) · 2026-09-18 · `智能体 · 内容审核`
-- 复刻 Jev 的并行决策思路，让 0.6B 小模型一次前向直接输出完整概率分布，不做输出 token 解码。 https:// github.com/TianyuCodings/ NanoJev … — [@QingQ77](https://x.com/QingQ77/status/2101125879766421755) · 2026-09-19 · `编程开发 · 成本速度`
-- 刚刷到一个很野的新模型：**Jev**。 它不聊天、不写文、不写代码。 你丢给它一段状态 + 几个你自己定好的问题，它只干一件事——**做判断**。 选哪个队列、紧急几分、要不要人工、下一步点哪个按钮，直接返回选项 + 概率。程序拿来就能分支。 官方说法：这类封闭决策比大模型快几十到两百倍，输入约 — [@gaoqian2580](https://x.com/gaoqian2580/status/2101113016305770536) · 2026-09-19
-- Jev 实测：这款爆火的极速决策模型的基本玩法 这两天社交媒体上最热的模型，恐怕就是 Jev 了。今天我也体验了一番，基本了解了它是做什么的，擅长做什么，不适合做什么，现在来分享一下。 什么时候用？答案空间事先能定义的场景。分类、路由、打分、验证，还有需要每秒几次决策的实时循环。 — [@verysmallwoods](https://x.com/verysmallwoods/status/2101090693800403101) · 2026-09-18
-- Jev 注册入口就 https:// typesafe.ai。 点 Join Waitlist，进去就是 Waitlist Joined。 想排前面，页面还会问要不要再答几题。 — [@0xlangeai](https://x.com/0xlangeai/status/2101117386934116578) · 2026-09-19
-- Jev模型热后，马上出来了开源版本的Jev，都是可以在本地进行训练和推理的，可以先体验。 一个基于 Qwen2.5-0.5B 构建的小型 Jev 型模型，可以在 MacBook 上进行训练和运行。（接了一个LoRa微调qwen2.5） — [@alacheng](https://x.com/alacheng/status/2101121597667201529) · 2026-09-19
+- GitHub 上全是 Jev 的衍生项目，疯都疯了。 后面看哪家大模型，率先系统级组合 Jev 类似的功能，我希望这个模型是 DeepSeek-V4.2-Flash。 Jev 当门卫，DeepSeek 当大脑或者 DeepSeek 出候选，Jev 做选择。DeepSeek 负责慢思考和文本生成，Je… — [@geekbb](https://x.com/geekbb/status/2101132066637422976) · 2026-09-19 · `编程开发`
+- Jev 这么火，在 x 上刷屏了， 那么下周的《100 个问题》就有选题了， 让子弹飞一会，别口嗨， 到时候我倒要看看用在哪里、怎么用、效果如何， 目前我刷了几个帖子来看， Jev 是一个经典的多元分类器， 处理逻辑和输出约束的情况下， 某种程度上讲，Jev 更接近传统机器学习模型，而非大语言模型，… — [@AgiRay1015](https://x.com/AgiRay1015/status/2101118459128266926) · 2026-09-19
 
 ## 数据说明
 
-- 采集方式：X 站内搜索（关键词 `Jev` / `TypeSafe` / `typesafeai` / `filter:videos` 等），滚动加载后解析，按发布时间去重。
-- 收录口径：数据窗口内提及 Jev / TypeSafe AI 的动态，剔除明显无关与代币类噪音。
+- 采集方式：X 站内搜索（`Jev` / `TypeSafe` / `typesafeai` / `filter:videos` / `lang:zh`），滚动加载后解析，按发布时间去重。
+- 更新频率：每 6 小时增量采集一次，新内容并入累计存档，历史内容不会丢失。
+- 收录口径：提及 Jev / TypeSafe AI 的动态，剔除明显无关与代币类噪音。
 - 类型判定（互斥）：含视频 → 演示视频；无视频且正文 ≥ 200 字符 → 长文；其余归入讨论。三者相加等于总数。
-- 完整 693 条结构化数据见 [`data/posts.json`](data/posts.json)，含作者、时间、原文、标签、原帖链接。
+- 完整 714 条结构化数据见 [`data/posts.json`](data/posts.json)，含作者、时间、原文、标签、原帖链接。
+
+## 关于作者
+
+**谁是专家** — 小红书 · 微信公众号 · X 同名
+
+- X：[@dboy_yi2025](https://x.com/dboy_yi2025)
 
 ## 版权与来源
 
@@ -235,4 +244,4 @@
 
 ---
 
-整理：[@dboy_yi2025](https://x.com/dboy_yi2025)
+出品：**谁是专家** ｜ [@dboy_yi2025](https://x.com/dboy_yi2025)

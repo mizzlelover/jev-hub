@@ -3,10 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>JEV 24小时 · X 上关于 Jev 的长文与演示视频聚合</title>
-<meta name="description" content="过去 24 小时，X 上关于 TypeSafe AI 系统一模型 Jev 的全部长文与演示视频聚合，保留原帖链接与作者署名。">
-<meta property="og:title" content="JEV 24小时 · X 长文与演示视频聚合">
-<meta property="og:description" content="过去 24 小时 X 上关于 Jev 的全部长文与演示视频，保留原链与来源。">
+<title>JEV HUB · X 上关于 Jev 的长文与演示视频聚合 | 谁是专家</title>
+<meta name="description" content="X 上关于 TypeSafe AI 系统一模型 Jev 的长文与演示视频聚合，每 6 小时自动更新，保留原帖链接与作者署名。由「谁是专家」出品。">
+<meta name="author" content="谁是专家">
+<meta property="og:title" content="JEV HUB · X 上关于 Jev 的长文与演示视频聚合">
+<meta property="og:description" content="每 6 小时自动更新，保留原链与作者。由「谁是专家」出品。">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
 <link rel="stylesheet" href="assets/style.css">
@@ -16,15 +17,15 @@
 <header class="topbar">
   <div class="wrap topbar-inner">
     <a class="brand" href="#top">
-      <span class="brand-mark">JEV</span>
-      <span class="brand-sub">24h 聚合</span>
+      <span class="brand-mark">JEV HUB</span>
+      <span class="brand-sub">谁是专家 · 出品</span>
     </a>
     <nav class="topnav">
       <a href="#starter">小白入门</a>
       <a href="#featured">编辑精选</a>
       <a href="#gallery">全部动态</a>
       <a href="#about">关于</a>
-      <a class="topnav-cta" href="https://github.com/mizzlelover/jev-hub" id="repoLink" target="_blank" rel="noopener">GitHub</a>
+      <a class="topnav-cta" href="https://github.com/mizzlelover/jev-hub" target="_blank" rel="noopener">GitHub</a>
     </nav>
   </div>
 </header>
@@ -35,13 +36,13 @@
   <section class="hero">
     <div class="hero-glow"></div>
     <div class="wrap hero-inner">
-      <div class="hero-badge">数据窗口 <span id="windowText">—</span> · 来源 X 搜索</div>
+      <div class="hero-badge">每 6 小时自动更新 · 最近更新 <span id="windowText">—</span></div>
       <h1 class="hero-title">
-        过去 <em>24 小时</em>，<br>X 上关于 <span class="jev">Jev</span> 的一切
+        X 上关于 <span class="jev">Jev</span> 的一切，<br><em>一页看完</em>
       </h1>
       <p class="hero-lead">
-        TypeSafe AI 的「系统一模型」Jev 发布后迅速刷屏。我们抓取了 24 小时内 X 上关于 Jev 的
-        <strong>长文</strong>与<strong>演示视频</strong>，逐条保留<strong>原帖链接</strong>与<strong>作者署名</strong>，一站式查阅。
+        TypeSafe AI 的「系统一模型」Jev 发布后迅速刷屏。这里持续聚合 X 上关于 Jev 的
+        <strong>长文</strong>与<strong>演示视频</strong>，逐条保留<strong>原帖链接</strong>与<strong>作者署名</strong>，新内容每 6 小时自动并入。
       </p>
 
       <div class="stats" id="stats">
@@ -50,6 +51,7 @@
         <div class="stat"><b id="s-long">—</b><span>长文</span></div>
         <div class="stat"><b id="s-author">—</b><span>位作者</span></div>
       </div>
+      <p class="stats-note" id="statsNote"></p>
 
       <div class="hero-actions">
         <a class="btn btn-primary" href="#starter">小白先读这篇 →</a>
@@ -77,8 +79,6 @@
             <span>@dboy_yi2025</span>
             <span>·</span>
             <span>2026-09-18</span>
-            <span>·</span>
-            <span>1.8K 阅读</span>
           </div>
           <span class="starter-cta">阅读全文 →</span>
         </div>
@@ -91,7 +91,7 @@
     <div class="wrap">
       <div class="section-head">
         <h2>编辑精选</h2>
-        <p>按互动量排序的高热动态：官方发布、爆款演示与深度长文。</p>
+        <p>最近 24 小时内互动量最高的动态：官方发布、爆款演示与深度长文。</p>
       </div>
       <div class="featured-grid" id="featuredGrid"></div>
     </div>
@@ -102,10 +102,14 @@
     <div class="wrap">
       <div class="section-head">
         <h2>全部动态</h2>
-        <p>支持按类型、语言与主题筛选，点击任意卡片跳转原帖。</p>
+        <p>支持按时间、类型、语言与主题筛选，点击任意卡片跳转原帖。</p>
       </div>
 
       <div class="filters">
+        <div class="filter-row">
+          <span class="filter-label">时间</span>
+          <div class="chips" id="timeChips"></div>
+        </div>
         <div class="filter-row">
           <span class="filter-label">类型</span>
           <div class="chips" id="typeChips"></div>
@@ -136,7 +140,15 @@
     <div class="wrap about">
       <div class="about-col">
         <h3>这是什么</h3>
-        <p>一个针对 Jev 的实时聚合站。数据来自 X（Twitter）公开搜索结果，覆盖过去 24 小时内提及 Jev / TypeSafe AI 的长文、演示视频与讨论，按时间与互动量整理。</p>
+        <p>一个针对 Jev 的持续聚合站。数据来自 X（Twitter）公开搜索结果，<strong>每 6 小时自动更新一次</strong>，新内容并入累计存档，历史内容不会丢失。</p>
+      </div>
+      <div class="about-col">
+        <h3>关于作者</h3>
+        <p class="author-name">谁是专家</p>
+        <p>小红书 · 微信公众号 · X 同名</p>
+        <ul class="links">
+          <li><a href="https://x.com/dboy_yi2025" target="_blank" rel="noopener">X · @dboy_yi2025</a></li>
+        </ul>
       </div>
       <div class="about-col">
         <h3>来源与版权</h3>
@@ -157,8 +169,9 @@
 
 <footer class="footer">
   <div class="wrap footer-inner">
-    <p>JEV 24小时 · 数据抓取于 <span id="genAt">—</span> · 仅作信息聚合，版权归原作者所有</p>
-    <p class="footer-sub">整理：<a href="https://x.com/dboy_yi2025" target="_blank" rel="noopener">@dboy_yi2025</a></p>
+    <p class="footer-brand">谁是专家 <span>小红书 · 微信公众号 · X 同名</span></p>
+    <p>JEV HUB · 每 6 小时自动更新 · 最近更新 <span id="genAt">—</span></p>
+    <p class="footer-sub">仅作信息聚合，版权归原作者所有 ｜ 整理：<a href="https://x.com/dboy_yi2025" target="_blank" rel="noopener">@dboy_yi2025</a></p>
   </div>
 </footer>
 

@@ -1,26 +1,22 @@
 {
  "meta": {
-  "generated_at": "2026-09-19T02:21:49.945425+00:00",
-  "window_from": "2026-09-18T02:21:49.945425+00:00",
-  "window_to": "2026-09-19T02:21:49.945425+00:00",
-  "total": 693,
-  "videos": 216,
-  "longform": 110,
-  "authors": 592,
+  "generated_at": "2026-09-19T02:44:46.409906+00:00",
+  "window_from": "2026-09-15T18:17:52+00:00",
+  "window_to": "2026-09-19T02:19:28+00:00",
+  "total": 714,
+  "videos": 226,
+  "longform": 114,
+  "longform_any": 224,
+  "authors": 604,
+  "runs": 1,
   "langs": {
-   "zh": 116,
-   "en": 499,
-   "ja": 73,
+   "zh": 122,
+   "en": 513,
+   "ja": 74,
    "ar": 3,
    "ko": 2
   },
-  "pinned": {
-   "title": "读不懂也要读懂系列01｜GPT它爸，造了个不会聊天的 AI",
-   "url": "https://x.com/dboy_yi2025/status/2100888192576880692",
-   "handle": "dboy_yi2025"
-  },
-  "discussion": 367,
-  "longform_any": 215
+  "discussion": 374
  },
  "items": [
   {
@@ -67,7 +63,10 @@
     "views": "36"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101133967797964866",
@@ -88,6 +87,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -109,7 +111,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101133859454865514",
@@ -130,7 +135,10 @@
     "views": "172"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101133726940066203",
@@ -151,7 +159,10 @@
     "views": "1"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101133718316265696",
@@ -174,6 +185,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -195,7 +209,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101133683130515830",
@@ -216,7 +233,10 @@
     "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101133323276050892",
@@ -239,7 +259,10 @@
    "extLinks": [
     "https://t.co/PwB2E8moL0"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101133285938065426",
@@ -262,6 +285,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -287,6 +313,9 @@
     "编程开发",
     "成本速度",
     "工具资源"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -308,7 +337,10 @@
     "views": "9"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101132950339543128",
@@ -330,7 +362,10 @@
     "views": "44"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101132855283773597",
@@ -349,7 +384,10 @@
     "views": ""
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101132830306951351",
@@ -373,7 +411,10 @@
     "https://t.co/uP0nkaVplA",
     "https://t.co/uP0nkaVplA"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101132703190167836",
@@ -394,7 +435,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101132396028391637",
@@ -415,7 +459,10 @@
     "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101132361639526758",
@@ -434,7 +481,10 @@
     "views": ""
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101132320484868145",
@@ -449,13 +499,18 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     1
+     1,
+     9
     ],
-    "raw": "1",
-    "views": "1"
+    "raw": "1 9",
+    "views": "9"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_top"
+   ]
   },
   {
    "id": "2101132298666078712",
@@ -476,6 +531,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -503,6 +561,9 @@
     "成本速度",
     "工具资源",
     "金融交易"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -524,7 +585,10 @@
     "views": "1"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101132245646159906",
@@ -545,7 +609,10 @@
     "views": "1"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101132187118506301",
@@ -568,6 +635,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -589,7 +659,10 @@
     "views": "2"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101132153769877785",
@@ -603,12 +676,18 @@
    "long": false,
    "thumb": "https://pbs.twimg.com/media/HSi4hyia0AE71sx?format=jpg&name=small",
    "metrics": {
-    "vals": [],
-    "raw": "",
-    "views": ""
+    "vals": [
+     3
+    ],
+    "raw": "3",
+    "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101132149973778700",
@@ -635,6 +714,9 @@
     "成本速度",
     "金融交易",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -658,6 +740,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -681,6 +766,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -699,13 +787,17 @@
      3,
      1,
      2,
-     12
+     74
     ],
-    "raw": "3 1 2 12",
-    "views": "12"
+    "raw": "3 1 2 74",
+    "views": "74"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101132109716783413",
@@ -728,6 +820,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -740,16 +835,20 @@
    "lang": "ja",
    "video": true,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101131218125565953/img/7XCvveKs1ghB6_pf.jpg",
    "metrics": {
     "vals": [
-     4
+     11
     ],
-    "raw": "4",
-    "views": "4"
+    "raw": "11",
+    "views": "11"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
+   ]
   },
   {
    "id": "2101132103555621058",
@@ -764,13 +863,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     2
+     7
     ],
-    "raw": "2",
-    "views": "2"
+    "raw": "7",
+    "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101132067857707199",
@@ -795,6 +898,9 @@
     "编程开发",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -811,15 +917,20 @@
    "metrics": {
     "vals": [
      1,
-     1,
-     97
+     2,
+     409
     ],
-    "raw": "1 1 97",
-    "views": "97"
+    "raw": "1 2 409",
+    "views": "409"
    },
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_top",
+    "jev_zh"
    ]
   },
   {
@@ -847,6 +958,9 @@
     "智能体",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -874,6 +988,9 @@
     "模型原理",
     "成本速度",
     "金融交易"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -895,7 +1012,10 @@
     "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101131924463141177",
@@ -918,6 +1038,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -941,7 +1064,11 @@
     "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_top"
+   ]
   },
   {
    "id": "2101131881546658130",
@@ -964,6 +1091,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -979,10 +1109,10 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     2
+     3
     ],
-    "raw": "2",
-    "views": "2"
+    "raw": "3",
+    "views": "3"
    },
    "extLinks": [
     "https://t.co/xjGswCJ8H4",
@@ -992,6 +1122,10 @@
     "编程开发",
     "成本速度",
     "工具资源"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -1013,7 +1147,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131665510629524",
@@ -1025,15 +1162,15 @@
    "lang": "zh",
    "video": false,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/card_img/2100619190558179328/REP22Joi?format=jpg&name=small",
    "metrics": {
     "vals": [
      1,
      1,
-     5
+     12
     ],
-    "raw": "1 1 5",
-    "views": "5"
+    "raw": "1 1 12",
+    "views": "12"
    },
    "extLinks": [
     "https://t.co/zAPP1qLpVc",
@@ -1043,6 +1180,10 @@
    "tags": [
     "编程开发",
     "工具资源"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
    ]
   },
   {
@@ -1064,7 +1205,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131634322080150",
@@ -1079,14 +1223,18 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     2
+     4
     ],
-    "raw": "2",
-    "views": "2"
+    "raw": "4",
+    "views": "4"
    },
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -1108,7 +1256,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131561722851605",
@@ -1129,7 +1280,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101131535453696280",
@@ -1153,6 +1307,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1177,6 +1334,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1189,19 +1349,23 @@
    "lang": "en",
    "video": true,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101131283602497536/img/8sFM2A9tMOFWh8yc.jpg",
    "metrics": {
     "vals": [
-     8
+     9
     ],
-    "raw": "8",
-    "views": "8"
+    "raw": "9",
+    "views": "9"
    },
    "extLinks": [
     "https://t.co/1jB8v3rK92"
    ],
    "tags": [
     "金融交易"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
    ]
   },
   {
@@ -1226,6 +1390,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1247,7 +1414,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131405514166351",
@@ -1272,6 +1442,9 @@
     "编程开发",
     "智能体",
     "工具资源"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1284,13 +1457,13 @@
    "lang": "en",
    "video": true,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101131263469821952/img/jEJ7piUpM1sjoTZL.jpg",
    "metrics": {
     "vals": [
-     4
+     6
     ],
-    "raw": "4",
-    "views": "4"
+    "raw": "6",
+    "views": "6"
    },
    "extLinks": [],
    "tags": [
@@ -1299,6 +1472,10 @@
     "成本速度",
     "工具资源",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
    ]
   },
   {
@@ -1322,6 +1499,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1345,6 +1525,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1366,7 +1549,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131390066835946",
@@ -1393,6 +1579,9 @@
     "编程开发",
     "模型原理",
     "工具资源"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1420,6 +1609,9 @@
    "tags": [
     "编程开发",
     "智能体"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1446,7 +1638,10 @@
    "extLinks": [
     "https://t.co/lB0p5XOFgN"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101131296881992141",
@@ -1458,20 +1653,25 @@
    "lang": "en",
    "video": true,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101130838742302721/img/OORv6IZdSyehFrqg.jpg",
    "metrics": {
     "vals": [
+     2,
      4,
      3,
-     40
+     51
     ],
-    "raw": "4 3 40",
-    "views": "40"
+    "raw": "2 4 3 51",
+    "views": "51"
    },
    "extLinks": [],
    "tags": [
     "编程开发",
     "游戏对战"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
    ]
   },
   {
@@ -1484,13 +1684,13 @@
    "lang": "en",
    "video": true,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101131130342715392/img/pxkvuRQEyp1AhY1T.jpg",
    "metrics": {
     "vals": [
-     235
+     264
     ],
-    "raw": "235",
-    "views": "235"
+    "raw": "264",
+    "views": "264"
    },
    "extLinks": [],
    "tags": [
@@ -1498,6 +1698,10 @@
     "智能体",
     "内容审核",
     "工具资源"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
    ]
   },
   {
@@ -1519,7 +1723,10 @@
     "views": "16"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131270462046372",
@@ -1540,7 +1747,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131251637703002",
@@ -1563,6 +1773,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1588,6 +1801,9 @@
     "智能体",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1609,7 +1825,10 @@
     "views": "2"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131174026580190",
@@ -1633,7 +1852,10 @@
     "views": "38"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131170868301984",
@@ -1654,7 +1876,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131109245632784",
@@ -1670,14 +1895,18 @@
    "metrics": {
     "vals": [
      3,
-     132
+     216
     ],
-    "raw": "3 132",
-    "views": "132"
+    "raw": "3 216",
+    "views": "216"
    },
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafe"
    ]
   },
   {
@@ -1700,7 +1929,10 @@
     "views": "30"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131080648593836",
@@ -1721,7 +1953,10 @@
     "views": "15"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131077561745889",
@@ -1742,7 +1977,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101131075502444647",
@@ -1764,7 +2002,10 @@
     "views": "18"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101131073690230889",
@@ -1787,6 +2028,9 @@
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1812,6 +2056,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1833,7 +2080,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101130905905758526",
@@ -1857,6 +2107,9 @@
    "tags": [
     "模型原理",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -1880,7 +2133,10 @@
     "views": "37"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130800360263871",
@@ -1902,7 +2158,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130789589229629",
@@ -1923,7 +2182,10 @@
     "views": "2"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130758635258226",
@@ -1938,10 +2200,10 @@
    "thumb": "https://pbs.twimg.com/media/HSi2ZytaQAAnHuA?format=jpg&name=small",
    "metrics": {
     "vals": [
-     14
+     25
     ],
-    "raw": "14",
-    "views": "14"
+    "raw": "25",
+    "views": "25"
    },
    "extLinks": [],
    "tags": [
@@ -1949,6 +2211,10 @@
     "模型原理",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_resource"
    ]
   },
   {
@@ -1973,7 +2239,10 @@
     "https://t.co/025hgbxSa5",
     "https://t.co/025hgbxSa5"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130712590246097",
@@ -1994,7 +2263,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130707393540449",
@@ -2015,7 +2287,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130675764306058",
@@ -2036,7 +2311,10 @@
     "views": "20"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101130665463005424",
@@ -2051,13 +2329,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     12
+     19
     ],
-    "raw": "12",
-    "views": "12"
+    "raw": "19",
+    "views": "19"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101130656516624801",
@@ -2069,20 +2351,25 @@
    "lang": "ja",
    "video": false,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/card_img/2100864940995227648/u0ucsNDn?format=jpg&name=small",
    "metrics": {
     "vals": [
-     13
+     29
     ],
-    "raw": "13",
-    "views": "13"
+    "raw": "29",
+    "views": "29"
    },
    "extLinks": [
     "https://t.co/lg2Mm6rbmE",
     "https://t.co/lg2Mm6rbmE",
     "https://t.co/lg2Mm6rbmE"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_resource",
+    "typesafe"
+   ]
   },
   {
    "id": "2101130648421597383",
@@ -2103,7 +2390,10 @@
     "views": "9"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130638124622292",
@@ -2118,15 +2408,19 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     38
+     62
     ],
-    "raw": "38",
-    "views": "38"
+    "raw": "62",
+    "views": "62"
    },
    "extLinks": [],
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_top"
    ]
   },
   {
@@ -2148,7 +2442,10 @@
     "views": "11"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130600824611248",
@@ -2170,7 +2467,10 @@
     "views": "42"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130562300006898",
@@ -2192,7 +2492,10 @@
     "views": "20"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130538480251299",
@@ -2216,6 +2519,9 @@
    "tags": [
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2239,6 +2545,9 @@
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2264,6 +2573,9 @@
    ],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2287,6 +2599,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2308,7 +2623,10 @@
     "views": "31"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130496033837324",
@@ -2333,6 +2651,9 @@
     "智能体",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2354,7 +2675,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130467596812519",
@@ -2375,7 +2699,10 @@
     "views": "54"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130463037530229",
@@ -2402,6 +2729,9 @@
    "tags": [
     "编程开发",
     "游戏对战"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2417,13 +2747,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     62
+     95
     ],
-    "raw": "62",
-    "views": "62"
+    "raw": "95",
+    "views": "95"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_top"
+   ]
   },
   {
    "id": "2101130422151200795",
@@ -2439,14 +2773,18 @@
    "metrics": {
     "vals": [
      1,
-     52
+     84
     ],
-    "raw": "1 52",
-    "views": "52"
+    "raw": "1 84",
+    "views": "84"
    },
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -2459,14 +2797,14 @@
    "lang": "en",
    "video": false,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/card_img/2100864940995227648/u0ucsNDn?format=jpg&name=small",
    "metrics": {
     "vals": [
      1,
-     15
+     21
     ],
-    "raw": "1 15",
-    "views": "15"
+    "raw": "1 21",
+    "views": "21"
    },
    "extLinks": [
     "https://t.co/lg2Mm6qDx6",
@@ -2476,6 +2814,11 @@
    "tags": [
     "智能体",
     "模型原理"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_resource",
+    "typesafe"
    ]
   },
   {
@@ -2492,13 +2835,17 @@
    "metrics": {
     "vals": [
      3,
-     66
+     97
     ],
-    "raw": "3 66",
-    "views": "66"
+    "raw": "3 97",
+    "views": "97"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_top"
+   ]
   },
   {
    "id": "2101130361774145864",
@@ -2521,6 +2868,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2542,7 +2892,10 @@
     "views": "17"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130330329493512",
@@ -2566,7 +2919,10 @@
     "https://t.co/GBgQI4zuLl",
     "https://t.co/GBgQI4zuLl"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101130326915305592",
@@ -2581,14 +2937,18 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     6
+     7
     ],
-    "raw": "6",
-    "views": "6"
+    "raw": "7",
+    "views": "7"
    },
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafe"
    ]
   },
   {
@@ -2611,7 +2971,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130309999722505",
@@ -2632,7 +2995,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130296951521390",
@@ -2653,7 +3019,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130282653069802",
@@ -2676,6 +3045,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -2697,7 +3069,11 @@
     "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101130224360419631",
@@ -2709,18 +3085,22 @@
    "lang": "en",
    "video": true,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101129993786978304/img/gso-VRNX2Qc0jgaY.jpg",
    "metrics": {
     "vals": [
      1,
-     12
+     13
     ],
-    "raw": "1 12",
-    "views": "12"
+    "raw": "1 13",
+    "views": "13"
    },
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
    ]
   },
   {
@@ -2745,6 +3125,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2766,7 +3149,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130125328937168",
@@ -2787,7 +3173,10 @@
     "views": "16"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130117724660204",
@@ -2810,6 +3199,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2831,7 +3223,10 @@
     "views": "29"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130105539957190",
@@ -2853,7 +3248,10 @@
     "views": "10"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101130013273964915",
@@ -2877,6 +3275,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2898,7 +3299,10 @@
     "views": "2"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129955786571913",
@@ -2919,7 +3323,10 @@
     "views": "13"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129939588407620",
@@ -2942,6 +3349,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -2963,7 +3373,10 @@
     "views": "16"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129843249398188",
@@ -2987,6 +3400,9 @@
    "tags": [
     "模型原理",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3013,6 +3429,9 @@
    "tags": [
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3028,13 +3447,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     1
+     3
     ],
-    "raw": "1",
-    "views": "1"
+    "raw": "3",
+    "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
+   ]
   },
   {
    "id": "2101129790325658014",
@@ -3055,7 +3478,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129728585613375",
@@ -3070,13 +3496,17 @@
    "thumb": "https://pbs.twimg.com/media/HSi2WTsbgAAjlKS?format=jpg&name=small",
    "metrics": {
     "vals": [
-     15
+     23
     ],
-    "raw": "15",
-    "views": "15"
+    "raw": "23",
+    "views": "23"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101129723569197323",
@@ -3091,14 +3521,18 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     10
+     12
     ],
-    "raw": "10",
-    "views": "10"
+    "raw": "12",
+    "views": "12"
    },
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -3120,7 +3554,10 @@
     "views": "16"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129697086349649",
@@ -3141,7 +3578,10 @@
     "views": "43"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129689788018785",
@@ -3168,6 +3608,9 @@
    ],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3189,7 +3632,10 @@
     "views": "16"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129580237009315",
@@ -3210,6 +3656,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3231,7 +3680,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129570900468090",
@@ -3252,7 +3704,10 @@
     "views": "32"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129565250916627",
@@ -3273,7 +3728,10 @@
     "views": "30"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129558925664664",
@@ -3294,7 +3752,10 @@
     "views": "1"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129512306253894",
@@ -3309,13 +3770,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     4
+     6
     ],
-    "raw": "4",
-    "views": "4"
+    "raw": "6",
+    "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
+   ]
   },
   {
    "id": "2101129506157461638",
@@ -3337,7 +3802,10 @@
     "views": "230"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129481385558483",
@@ -3362,6 +3830,9 @@
    "tags": [
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3385,6 +3856,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3409,6 +3883,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3433,7 +3910,10 @@
    "extLinks": [
     "https://t.co/j1rC2J12WI"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101129317770240441",
@@ -3450,13 +3930,17 @@
     "vals": [
      2,
      1,
-     76
+     109
     ],
-    "raw": "2 1 76",
-    "views": "76"
+    "raw": "2 1 109",
+    "views": "109"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101129301693276451",
@@ -3479,6 +3963,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3506,6 +3993,9 @@
     "模型原理",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3529,6 +4019,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3550,7 +4043,10 @@
     "views": "1"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129187050586587",
@@ -3575,6 +4071,9 @@
     "编程开发",
     "模型原理",
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -3599,6 +4098,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3621,7 +4123,10 @@
     "views": "635"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129156025254274",
@@ -3633,13 +4138,13 @@
    "lang": "ja",
    "video": false,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/card_img/2101129158441181184/caPYKXxQ?format=jpg&name=small",
    "metrics": {
     "vals": [
-     160
+     197
     ],
-    "raw": "160",
-    "views": "160"
+    "raw": "197",
+    "views": "197"
    },
    "extLinks": [
     "https://t.co/qPXn79rl9T",
@@ -3647,6 +4152,11 @@
    ],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_resource",
+    "typesafe"
    ]
   },
   {
@@ -3662,13 +4172,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     7
+     12
     ],
-    "raw": "7",
-    "views": "7"
+    "raw": "12",
+    "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "typesafe"
+   ]
   },
   {
    "id": "2101129149670642014",
@@ -3689,7 +4203,10 @@
     "views": "23"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129149473812529",
@@ -3701,19 +4218,23 @@
    "lang": "en",
    "video": true,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100938100272746496/img/8yisuerchTVTcFTn.jpg",
    "metrics": {
     "vals": [
      1,
      1,
-     567
+     591
     ],
-    "raw": "1 1 567",
-    "views": "567"
+    "raw": "1 1 591",
+    "views": "591"
    },
    "extLinks": [],
    "tags": [
     "金融交易"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
    ]
   },
   {
@@ -3736,7 +4257,10 @@
     "views": "13"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129132239384888",
@@ -3758,7 +4282,10 @@
     "views": "574"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129105676861621",
@@ -3770,20 +4297,25 @@
    "lang": "en",
    "video": true,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101128846225682432/img/NmYoKElvvnaWCaDq.jpg",
    "metrics": {
     "vals": [
      1,
      1,
-     16
+     18
     ],
-    "raw": "1 1 16",
-    "views": "16"
+    "raw": "1 1 18",
+    "views": "18"
    },
    "extLinks": [],
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos",
+    "typesafeai"
    ]
   },
   {
@@ -3805,7 +4337,10 @@
     "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101129046860157117",
@@ -3831,6 +4366,10 @@
    "tags": [
     "编程开发",
     "游戏对战"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
    ]
   },
   {
@@ -3855,6 +4394,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3884,6 +4426,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -3899,16 +4444,20 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     37
+     63
     ],
-    "raw": "37",
-    "views": "37"
+    "raw": "63",
+    "views": "63"
    },
    "extLinks": [],
    "tags": [
     "编程开发",
     "内容审核",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -3930,7 +4479,10 @@
     "views": "36"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128965889126427",
@@ -3951,7 +4503,10 @@
     "views": "31"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128887451472317",
@@ -3966,10 +4521,10 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     5
+     8
     ],
-    "raw": "5",
-    "views": "5"
+    "raw": "8",
+    "views": "8"
    },
    "extLinks": [
     "https://t.co/xjGswCJ8H4",
@@ -3978,6 +4533,10 @@
    "tags": [
     "成本速度",
     "工具资源"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -4002,6 +4561,9 @@
    "tags": [
     "内容审核",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4025,6 +4587,9 @@
    "extLinks": [],
    "tags": [
     "工具资源"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -4046,7 +4611,10 @@
     "views": "102"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128781955998162",
@@ -4067,7 +4635,10 @@
     "views": "9"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128765933821977",
@@ -4091,6 +4662,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4120,6 +4694,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4141,7 +4718,10 @@
     "views": "18"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128700779708740",
@@ -4156,16 +4736,20 @@
    "thumb": "https://pbs.twimg.com/media/HSi1UogasAAKjBj?format=jpg&name=small",
    "metrics": {
     "vals": [
-     6
+     7
     ],
-    "raw": "6",
-    "views": "6"
+    "raw": "7",
+    "views": "7"
    },
    "extLinks": [
     "https://t.co/q62vbhnU6O"
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
    ]
   },
   {
@@ -4187,7 +4771,10 @@
     "views": "9"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128674779263220",
@@ -4213,6 +4800,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4228,14 +4818,18 @@
    "thumb": "https://pbs.twimg.com/media/HSi1QQGXUAA-fiU?format=png&name=small",
    "metrics": {
     "vals": [
-     13
+     14
     ],
-    "raw": "13",
-    "views": "13"
+    "raw": "14",
+    "views": "14"
    },
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -4259,6 +4853,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4280,7 +4877,10 @@
     "views": "27"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128566759149866",
@@ -4295,13 +4895,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     2
+     3
     ],
-    "raw": "2",
-    "views": "2"
+    "raw": "3",
+    "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_top"
+   ]
   },
   {
    "id": "2101128514762371270",
@@ -4324,6 +4928,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4346,7 +4953,10 @@
     "views": "2"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128460374855893",
@@ -4361,13 +4971,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     6
+     7
     ],
-    "raw": "6",
-    "views": "6"
+    "raw": "7",
+    "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "typesafe"
+   ]
   },
   {
    "id": "2101128449033416825",
@@ -4392,6 +5006,9 @@
    "tags": [
     "智能体",
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4404,14 +5021,14 @@
    "lang": "en",
    "video": false,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/card_img/2101128254778449920/riMUlN55?format=jpg&name=small",
    "metrics": {
     "vals": [
      1,
-     14
+     25
     ],
-    "raw": "1 14",
-    "views": "14"
+    "raw": "1 25",
+    "views": "25"
    },
    "extLinks": [
     "https://t.co/ilKr0ziAOR",
@@ -4419,6 +5036,10 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -4440,7 +5061,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128393911910503",
@@ -4452,16 +5076,20 @@
    "lang": "en",
    "video": true,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101127585107435520/img/tiBw3Qlsxa5ngm2F.jpg",
    "metrics": {
     "vals": [
-     16
+     17
     ],
-    "raw": "16",
-    "views": "16"
+    "raw": "17",
+    "views": "17"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_videos"
+   ]
   },
   {
    "id": "2101128359883231243",
@@ -4483,7 +5111,10 @@
     "views": "17"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128331269710235",
@@ -4504,7 +5135,10 @@
     "views": "10"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128318896480501",
@@ -4533,6 +5167,9 @@
     "编程开发",
     "智能体",
     "工具资源"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4558,6 +5195,9 @@
     "编程开发",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4573,15 +5213,19 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     120
+     163
     ],
-    "raw": "120",
-    "views": "120"
+    "raw": "163",
+    "views": "163"
    },
    "extLinks": [],
    "tags": [
     "模型原理",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -4597,14 +5241,18 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     46
+     62
     ],
-    "raw": "46",
-    "views": "46"
+    "raw": "62",
+    "views": "62"
    },
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -4626,7 +5274,10 @@
     "views": "99"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101128161136349422",
@@ -4641,14 +5292,20 @@
    "thumb": "https://pbs.twimg.com/media/HSi0646aEAAiUZz?format=jpg&name=small",
    "metrics": {
     "vals": [
-     20
+     27
     ],
-    "raw": "20",
-    "views": "20"
+    "raw": "27",
+    "views": "27"
    },
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_zh",
+    "typesafe",
+    "typesafeai"
    ]
   },
   {
@@ -4664,15 +5321,19 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     7
+     9
     ],
-    "raw": "7",
-    "views": "7"
+    "raw": "9",
+    "views": "9"
    },
    "extLinks": [],
    "tags": [
     "编程开发",
     "金融交易"
+   ],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
    ]
   },
   {
@@ -4694,7 +5355,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128083579588708",
@@ -4709,13 +5373,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     6
+     7
     ],
-    "raw": "6",
-    "views": "6"
+    "raw": "7",
+    "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
+   ]
   },
   {
    "id": "2101128073651609767",
@@ -4738,7 +5406,10 @@
     "views": "64"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101128026717376677",
@@ -4760,7 +5431,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127947868348609",
@@ -4781,7 +5455,10 @@
     "views": "21"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127894928113875",
@@ -4796,15 +5473,19 @@
    "thumb": "https://pbs.twimg.com/media/HSiz8iAaAAAyfhY?format=jpg&name=small",
    "metrics": {
     "vals": [
-     57
+     67
     ],
-    "raw": "57",
-    "views": "57"
+    "raw": "67",
+    "views": "67"
    },
    "extLinks": [
     "https://t.co/9O4gqJ24tD"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101127879744696709",
@@ -4825,7 +5506,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127864087171340",
@@ -4846,7 +5530,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127840104403096",
@@ -4861,13 +5548,17 @@
    "thumb": "https://pbs.twimg.com/media/HSfaaKAaUAApGl7?format=jpg&name=small",
    "metrics": {
     "vals": [
-     16
+     20
     ],
-    "raw": "16",
-    "views": "16"
+    "raw": "20",
+    "views": "20"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101127804783837210",
@@ -4890,6 +5581,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4905,13 +5599,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     5
+     7
     ],
-    "raw": "5",
-    "views": "5"
+    "raw": "7",
+    "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_top"
+   ]
   },
   {
    "id": "2101127773955956801",
@@ -4935,6 +5633,9 @@
    "tags": [
     "编程开发",
     "智能体"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -4956,7 +5657,10 @@
     "views": "10"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127739302617404",
@@ -4968,16 +5672,20 @@
    "lang": "en",
    "video": true,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/tweet_video_thumb/HSi0imwbIAAIE6L.jpg",
    "metrics": {
     "vals": [
-     24
+     30
     ],
-    "raw": "24",
-    "views": "24"
+    "raw": "30",
+    "views": "30"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
+   ]
   },
   {
    "id": "2101127738333810978",
@@ -4998,7 +5706,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127700484366364",
@@ -5019,7 +5730,10 @@
     "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127671430402175",
@@ -5042,6 +5756,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -5063,7 +5780,10 @@
     "views": "26"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127652274995381",
@@ -5085,7 +5805,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127644985348105",
@@ -5110,6 +5833,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -5126,14 +5852,19 @@
    "metrics": {
     "vals": [
      1,
-     3,
-     140
+     5,
+     199
     ],
-    "raw": "1 3 140",
-    "views": "140"
+    "raw": "1 5 199",
+    "views": "199"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "jev_top",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101127629894295787",
@@ -5156,6 +5887,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -5172,14 +5906,19 @@
    "metrics": {
     "vals": [
      2,
-     109
+     135
     ],
-    "raw": "2 109",
-    "views": "109"
+    "raw": "2 135",
+    "views": "135"
    },
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_zh",
+    "typesafe"
    ]
   },
   {
@@ -5201,7 +5940,10 @@
     "views": "62"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127576492122532",
@@ -5223,7 +5965,10 @@
     "views": "128"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127568909025687",
@@ -5244,7 +5989,10 @@
     "views": "27"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127554585247930",
@@ -5267,6 +6015,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -5288,7 +6039,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127504555835623",
@@ -5309,7 +6063,10 @@
     "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127495252955193",
@@ -5331,7 +6088,10 @@
     "views": "9"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127478697758777",
@@ -5354,6 +6114,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -5376,7 +6139,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127458242367913",
@@ -5399,6 +6165,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -5425,6 +6194,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_latest"
    ]
   },
   {
@@ -5446,7 +6218,10 @@
     "views": "9"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127305133199718",
@@ -5468,7 +6243,10 @@
     "views": "13"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101127295906041977",
@@ -5494,6 +6272,10 @@
     "成本速度",
     "工具资源",
     "评测对比"
+   ],
+   "sources": [
+    "jev_latest",
+    "jev_resource"
    ]
   },
   {
@@ -5515,7 +6297,10 @@
     "views": "64"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest"
+   ]
   },
   {
    "id": "2101127238284345536",
@@ -5527,17 +6312,21 @@
    "lang": "en",
    "video": true,
    "long": false,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/tweet_video_thumb/HSi0FnxXMAAXCHe.jpg",
    "metrics": {
     "vals": [
-     2,
-     134
+     3,
+     172
     ],
-    "raw": "2 134",
-    "views": "134"
+    "raw": "3 172",
+    "views": "172"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_latest",
+    "typesafeai"
+   ]
   },
   {
    "id": "2101127237596803126",
@@ -5558,7 +6347,10 @@
     "views": "35"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource"
+   ]
   },
   {
    "id": "2101127133141901448",
@@ -5582,6 +6374,9 @@
    "tags": [
     "编程开发",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -5603,7 +6398,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101126542189273117",
@@ -5626,7 +6424,10 @@
     "views": "603"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101126318587068477",
@@ -5647,7 +6448,10 @@
     "views": "39"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101126289910349944",
@@ -5659,7 +6463,7 @@
    "lang": "en",
    "video": true,
    "long": true,
-   "thumb": "",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101125916814417920/img/sXukax5wB6D83q4m.jpg",
    "metrics": {
     "vals": [
      1,
@@ -5673,6 +6477,10 @@
     "编程开发",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos",
+    "typesafe"
    ]
   },
   {
@@ -5695,7 +6503,10 @@
     "views": "209"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101126164010197479",
@@ -5716,7 +6527,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101126121253220568",
@@ -5738,7 +6552,10 @@
     "views": "26"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101126098603888862",
@@ -5763,6 +6580,10 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe",
+    "typesafeai"
    ]
   },
   {
@@ -5784,7 +6605,10 @@
     "views": "15"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101125879766421755",
@@ -5812,6 +6636,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -5833,7 +6660,10 @@
     "views": "42"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101125810409316594",
@@ -5854,7 +6684,10 @@
     "views": "99"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101125704075055191",
@@ -5878,7 +6711,10 @@
    "extLinks": [
     "https://t.co/RhPPe1impX"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101125591407685943",
@@ -5899,7 +6735,10 @@
     "views": "37"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101125473338102082",
@@ -5920,7 +6759,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101125348251644097",
@@ -5941,7 +6783,10 @@
     "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101125319210230065",
@@ -5962,7 +6807,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101125312595849313",
@@ -5985,6 +6833,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -6006,7 +6857,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101125130240008601",
@@ -6031,6 +6885,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -6052,7 +6909,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101125010857283983",
@@ -6067,14 +6927,18 @@
    "thumb": "https://pbs.twimg.com/media/HSixlE_W4AAxAzJ?format=jpg&name=small",
    "metrics": {
     "vals": [
-     128
+     131
     ],
-    "raw": "128",
-    "views": "128"
+    "raw": "131",
+    "views": "131"
    },
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "jev_zh",
+    "typesafeai"
    ]
   },
   {
@@ -6096,7 +6960,10 @@
     "views": "66"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101124893865574575",
@@ -6119,6 +6986,9 @@
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6141,7 +7011,10 @@
     "views": "131"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101124597718700504",
@@ -6162,7 +7035,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101124436304994441",
@@ -6183,7 +7059,10 @@
     "views": "11"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101124300527034822",
@@ -6206,7 +7085,10 @@
     "views": "24"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101124212400488909",
@@ -6228,7 +7110,10 @@
     "views": "24"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101124145006133506",
@@ -6252,6 +7137,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6268,14 +7156,18 @@
    "metrics": {
     "vals": [
      1,
-     82
+     88
     ],
-    "raw": "1 82",
-    "views": "82"
+    "raw": "1 88",
+    "views": "88"
    },
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos",
+    "jev_zh"
    ]
   },
   {
@@ -6302,6 +7194,9 @@
    "tags": [
     "游戏对战",
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -6327,6 +7222,9 @@
     "编程开发",
     "成本速度",
     "金融交易"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6349,7 +7247,10 @@
     "views": "499"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101123835319730498",
@@ -6372,6 +7273,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6393,7 +7297,10 @@
     "views": "3"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101123591983259672",
@@ -6416,6 +7323,9 @@
    "extLinks": [],
    "tags": [
     "工具资源"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6440,7 +7350,10 @@
     "views": "18K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101123495497495009",
@@ -6464,6 +7377,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -6486,7 +7402,10 @@
     "views": "423"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101123152986210535",
@@ -6509,6 +7428,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -6524,13 +7446,17 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     33
+     34
     ],
-    "raw": "33",
-    "views": "33"
+    "raw": "34",
+    "views": "34"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh",
+    "typesafeai"
+   ]
   },
   {
    "id": "2101122765080420579",
@@ -6553,7 +7479,10 @@
     "views": "227"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101122645550919953",
@@ -6577,6 +7506,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6600,6 +7532,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -6621,7 +7556,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101121913590571398",
@@ -6650,6 +7588,9 @@
     "模型原理",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6674,6 +7615,9 @@
    "tags": [
     "游戏对战",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -6697,6 +7641,9 @@
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -6723,7 +7670,10 @@
     "https://t.co/8D8kkU3beF",
     "https://t.co/8D8kkU3beF"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101121421472825726",
@@ -6747,6 +7697,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -6771,6 +7724,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -6794,6 +7750,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -6819,6 +7778,9 @@
    "extLinks": [],
    "tags": [
     "金融交易"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6847,6 +7809,9 @@
    "tags": [
     "编程开发",
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -6871,6 +7836,9 @@
    "extLinks": [],
    "tags": [
     "金融交易"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -6897,6 +7865,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -6918,7 +7889,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101120358195609807",
@@ -6940,7 +7914,10 @@
     "views": "97"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101120228428325342",
@@ -6963,6 +7940,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -6986,6 +7966,10 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos",
+    "typesafeai"
    ]
   },
   {
@@ -7007,7 +7991,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101119554311094686",
@@ -7028,7 +8015,10 @@
     "views": "36"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101119506034868324",
@@ -7049,7 +8039,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101119455203848361",
@@ -7074,6 +8067,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -7102,6 +8098,9 @@
     "智能体",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -7125,7 +8124,10 @@
     "views": "39"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101119090207371415",
@@ -7149,6 +8151,9 @@
    "tags": [
     "编程开发",
     "内容审核"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -7172,7 +8177,10 @@
     "views": "350"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101118577340506593",
@@ -7194,7 +8202,10 @@
     "views": "62"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101118529936519453",
@@ -7219,6 +8230,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -7241,7 +8255,10 @@
     "views": "206"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101118496906051685",
@@ -7256,15 +8273,19 @@
    "thumb": "",
    "metrics": {
     "vals": [
-     16
+     17
     ],
-    "raw": "16",
-    "views": "16"
+    "raw": "17",
+    "views": "17"
    },
    "extLinks": [
     "https://t.co/ci3dtjsj13"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource",
+    "typesafe"
+   ]
   },
   {
    "id": "2101118465503629432",
@@ -7288,7 +8309,10 @@
     "https://t.co/h6yod4N2VH",
     "https://t.co/h6yod4N2VH"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101118459128266926",
@@ -7310,7 +8334,10 @@
     "views": "408"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101118451628785704",
@@ -7331,7 +8358,10 @@
     "views": "10"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101118398620971024",
@@ -7354,6 +8384,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -7379,6 +8412,12 @@
    ],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource",
+    "jev_zh",
+    "typesafe",
+    "typesafeai"
    ]
   },
   {
@@ -7400,7 +8439,10 @@
     "views": "17"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101118268585234832",
@@ -7426,6 +8468,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -7447,7 +8492,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101117978834039083",
@@ -7471,6 +8519,9 @@
    "tags": [
     "编程开发",
     "内容审核"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -7497,6 +8548,10 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe",
+    "typesafeai"
    ]
   },
   {
@@ -7523,6 +8578,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -7538,15 +8596,20 @@
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg",
    "metrics": {
     "vals": [
-     30
+     32
     ],
-    "raw": "30",
-    "views": "30"
+    "raw": "32",
+    "views": "32"
    },
    "extLinks": [],
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource",
+    "jev_zh",
+    "typesafe"
    ]
   },
   {
@@ -7571,6 +8634,10 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "typesafe",
+    "typesafeai"
    ]
   },
   {
@@ -7595,7 +8662,10 @@
    "extLinks": [
     "https://t.co/nvBiMgLU5m"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101117200610316696",
@@ -7616,7 +8686,10 @@
     "views": "113"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101117203060019431",
@@ -7642,6 +8715,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -7667,6 +8743,9 @@
     "编程开发",
     "成本速度",
     "金融交易"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -7688,7 +8767,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101117066845831478",
@@ -7714,6 +8796,9 @@
    "extLinks": [],
    "tags": [
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -7745,6 +8830,9 @@
    "tags": [
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -7773,6 +8861,9 @@
     "智能体",
     "模型原理",
     "内容审核"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -7797,6 +8888,9 @@
    "tags": [
     "内容审核",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -7813,12 +8907,12 @@
    "metrics": {
     "vals": [
      15,
-     67,
-     316,
-     49000
+     71,
+     328,
+     52000
     ],
-    "raw": "15 67 316 49K",
-    "views": "49K"
+    "raw": "15 71 328 52K",
+    "views": "52K"
    },
    "extLinks": [
     "https://t.co/KsFHUhmaLe"
@@ -7826,6 +8920,10 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_top",
+    "typesafeai"
    ]
   },
   {
@@ -7841,10 +8939,10 @@
    "thumb": "https://pbs.twimg.com/card_img/2100204757596155904/zHkSlqrH?format=jpg&name=small",
    "metrics": {
     "vals": [
-     52
+     53
     ],
-    "raw": "52",
-    "views": "52"
+    "raw": "53",
+    "views": "53"
    },
    "extLinks": [
     "https://t.co/TJgx6ZUfsw",
@@ -7852,6 +8950,10 @@
    ],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource",
+    "typesafe"
    ]
   },
   {
@@ -7877,6 +8979,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafeai"
    ]
   },
   {
@@ -7898,7 +9003,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafeai"
+   ]
   },
   {
    "id": "2101116304631726261",
@@ -7920,7 +9028,10 @@
     "views": "1.1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101116300995314142",
@@ -7945,6 +9056,9 @@
    "tags": [
     "编程开发",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -7969,6 +9083,9 @@
    "tags": [
     "智能体",
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -7993,6 +9110,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -8021,6 +9141,9 @@
     "游戏对战",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -8042,7 +9165,10 @@
     "views": "33"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101115900552519912",
@@ -8063,7 +9189,10 @@
     "views": "34"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101115795283628194",
@@ -8089,6 +9218,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -8114,6 +9246,10 @@
     "编程开发",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_resource",
+    "typesafe"
    ]
   },
   {
@@ -8136,7 +9272,10 @@
     "views": "16"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101115530203808252",
@@ -8152,13 +9291,17 @@
    "metrics": {
     "vals": [
      5,
-     408
+     414
     ],
-    "raw": "5 408",
-    "views": "408"
+    "raw": "5 414",
+    "views": "414"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh",
+    "typesafe"
+   ]
   },
   {
    "id": "2101115459231993907",
@@ -8179,7 +9322,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101115439640113197",
@@ -8202,6 +9348,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -8225,7 +9374,10 @@
     "views": "74"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101115290473967720",
@@ -8248,7 +9400,10 @@
     "views": "283"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101115250443460620",
@@ -8270,7 +9425,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101114592478810365",
@@ -8291,7 +9449,10 @@
     "views": "20"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101114525751620058",
@@ -8315,6 +9476,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -8345,6 +9509,9 @@
     "编程开发",
     "模型原理",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -8368,7 +9535,10 @@
    "extLinks": [
     "https://grok.com/imagine/post/2fceb203-f340-44a3-ae1a-dde083a5069d"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101113948573442476",
@@ -8389,7 +9559,10 @@
     "views": "11"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101113862380470642",
@@ -8412,7 +9585,10 @@
     "views": "99"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101113806978007239",
@@ -8434,7 +9610,10 @@
     "views": "88"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101113752779165916",
@@ -8460,6 +9639,9 @@
    ],
    "tags": [
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -8477,10 +9659,10 @@
     "vals": [
      1,
      4,
-     948
+     977
     ],
-    "raw": "1 4 948",
-    "views": "948"
+    "raw": "1 4 977",
+    "views": "977"
    },
    "extLinks": [
     "https://t.co/3ZjzPaRZfV",
@@ -8489,6 +9671,10 @@
    ],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource",
+    "jev_zh"
    ]
   },
   {
@@ -8512,6 +9698,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -8542,6 +9731,9 @@
     "编程开发",
     "智能体",
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -8564,7 +9756,10 @@
     "views": "285"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101112968708784618",
@@ -8590,6 +9785,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -8621,6 +9819,9 @@
     "编程开发",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -8647,6 +9848,9 @@
    "tags": [
     "游戏对战",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -8668,7 +9872,10 @@
     "views": "27"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101112401353757177",
@@ -8691,6 +9898,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -8714,6 +9924,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -8738,7 +9951,10 @@
     "views": "422"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101112213679587421",
@@ -8759,7 +9975,10 @@
     "views": "59"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101112195534975484",
@@ -8783,6 +10002,9 @@
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -8804,7 +10026,10 @@
     "views": "35"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101111625558204921",
@@ -8828,7 +10053,10 @@
     "views": "1.3K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101111530313933182",
@@ -8851,7 +10079,11 @@
     "views": "1.2K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101111416304668863",
@@ -8874,7 +10106,10 @@
     "views": "117"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101111331256504456",
@@ -8895,7 +10130,10 @@
     "views": "25"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101110703147143472",
@@ -8916,7 +10154,10 @@
     "views": "17"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101110525547659456",
@@ -8939,6 +10180,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -8961,7 +10205,10 @@
     "views": "48"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101110301693444123",
@@ -8987,6 +10234,9 @@
     "模型原理",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9011,6 +10261,9 @@
    "extLinks": [],
    "tags": [
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9035,6 +10288,10 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos",
+    "typesafe"
    ]
   },
   {
@@ -9058,6 +10315,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -9081,7 +10341,10 @@
     "views": "876"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101109139556782144",
@@ -9104,6 +10367,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -9127,6 +10393,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -9152,6 +10421,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9176,7 +10448,11 @@
     "https://t.co/8ujSvZEmKX",
     "https://t.co/8ujSvZEmKX"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource",
+    "typesafe"
+   ]
   },
   {
    "id": "2101108510511530164",
@@ -9205,6 +10481,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -9230,6 +10509,9 @@
    "tags": [
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9257,6 +10539,10 @@
     "编程开发",
     "成本速度",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos",
+    "typesafe"
    ]
   },
   {
@@ -9282,6 +10568,9 @@
     "成本速度",
     "内容审核",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9297,13 +10586,17 @@
    "thumb": "https://pbs.twimg.com/media/HSiiasHbsAAxECj?format=jpg&name=small",
    "metrics": {
     "vals": [
-     75
+     76
     ],
-    "raw": "75",
-    "views": "75"
+    "raw": "76",
+    "views": "76"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh",
+    "typesafe"
+   ]
   },
   {
    "id": "2101108081807532465",
@@ -9324,7 +10617,10 @@
     "views": "496"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101108068679631184",
@@ -9347,7 +10643,10 @@
    "extLinks": [
     "https://t.co/MzxpZV7uJI"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101107971837358562",
@@ -9370,6 +10669,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9397,6 +10699,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9420,7 +10725,10 @@
    "extLinks": [
     "https://t.co/P04D4C4Zd3"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101107342615998683",
@@ -9444,6 +10752,9 @@
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -9472,6 +10783,9 @@
     "模型原理",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9496,6 +10810,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9523,6 +10840,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9550,6 +10870,9 @@
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -9577,6 +10900,9 @@
     "编程开发",
     "成本速度",
     "金融交易"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9599,7 +10925,10 @@
     "views": "818"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101106170610196788",
@@ -9620,7 +10949,10 @@
     "views": "59"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101106004683616684",
@@ -9635,14 +10967,18 @@
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101104905549463552/img/7vD25VZDYFw14FdV.jpg",
    "metrics": {
     "vals": [
-     13
+     16
     ],
-    "raw": "13",
-    "views": "13"
+    "raw": "16",
+    "views": "16"
    },
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos",
+    "jev_zh"
    ]
   },
   {
@@ -9664,7 +11000,10 @@
     "views": "13"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101105785246028129",
@@ -9685,7 +11024,10 @@
     "views": "11"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101105719273763124",
@@ -9708,7 +11050,10 @@
    "extLinks": [
     "https://t.co/BKhsRIapCP"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource"
+   ]
   },
   {
    "id": "2101105682766504401",
@@ -9733,6 +11078,9 @@
     "编程开发",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -9755,7 +11103,10 @@
     "views": "280"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101105340679086091",
@@ -9771,13 +11122,17 @@
    "metrics": {
     "vals": [
      1,
-     523
+     539
     ],
-    "raw": "1 523",
-    "views": "523"
+    "raw": "1 539",
+    "views": "539"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101105242020434305",
@@ -9799,7 +11154,10 @@
     "views": "19"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101105180963950794",
@@ -9821,7 +11179,10 @@
     "views": "71"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101104687827050984",
@@ -9845,6 +11206,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -9872,7 +11236,11 @@
     "https://t.co/vFPsbDhv9u",
     "https://t.co/vFPsbDhv9u"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource",
+    "typesafe"
+   ]
   },
   {
    "id": "2101104324306743644",
@@ -9896,6 +11264,9 @@
    "tags": [
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -9917,7 +11288,10 @@
     "views": "13"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101104175967056304",
@@ -9933,14 +11307,19 @@
    "metrics": {
     "vals": [
      5,
+     1,
      7,
-     1400
+     1500
     ],
-    "raw": "5 7 1.4K",
-    "views": "1.4K"
+    "raw": "5 1 7 1.5K",
+    "views": "1.5K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101104068349305148",
@@ -9961,7 +11340,10 @@
     "views": "8"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101103966461567097",
@@ -9985,7 +11367,10 @@
     "views": "1.4K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101103909557219431",
@@ -10011,6 +11396,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10034,7 +11422,10 @@
     "views": "553"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101103539355574718",
@@ -10065,6 +11456,9 @@
     "模型原理",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10089,7 +11483,11 @@
     "views": "1.4K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos",
+    "jev_zh"
+   ]
   },
   {
    "id": "2101102944833913192",
@@ -10111,7 +11509,10 @@
     "views": "61"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101102933903589785",
@@ -10133,7 +11534,10 @@
     "views": "118"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101102909136216405",
@@ -10157,6 +11561,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10183,6 +11590,9 @@
    "tags": [
     "编程开发",
     "智能体"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -10209,6 +11619,9 @@
    "tags": [
     "编程开发",
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -10233,6 +11646,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10255,7 +11671,10 @@
     "views": "131"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101101905879654894",
@@ -10281,6 +11700,9 @@
    "tags": [
     "编程开发",
     "智能体"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -10302,7 +11724,10 @@
     "views": "34"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101101473560240482",
@@ -10318,10 +11743,10 @@
    "metrics": {
     "vals": [
      1,
-     540
+     554
     ],
-    "raw": "1 540",
-    "views": "540"
+    "raw": "1 554",
+    "views": "554"
    },
    "extLinks": [
     "https://t.co/47x5HPqcAw",
@@ -10330,7 +11755,11 @@
     "https://t.co/47x5HPqcAw",
     "https://t.co/47x5HPqcAw"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh",
+    "typesafe"
+   ]
   },
   {
    "id": "2101101323835851137",
@@ -10352,7 +11781,10 @@
     "views": "1.1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101101071036994037",
@@ -10380,6 +11812,9 @@
     "编程开发",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -10403,7 +11838,10 @@
     "views": "198"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101101008650989747",
@@ -10431,6 +11869,9 @@
    "tags": [
     "模型原理",
     "评测对比"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -10455,7 +11896,10 @@
     "views": "51"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101100417870618723",
@@ -10481,6 +11925,9 @@
    "tags": [
     "编程开发",
     "金融交易"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10505,6 +11952,9 @@
    "tags": [
     "编程开发",
     "金融交易"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10530,7 +11980,10 @@
     "https://t.co/89vGZeq8Dj",
     "https://t.co/89vGZeq8Dj"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101100167491629424",
@@ -10556,6 +12009,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -10579,7 +12035,10 @@
     "views": "50"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101099762326045062",
@@ -10603,6 +12062,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10627,6 +12089,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10650,7 +12115,10 @@
     "views": "151"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101099243364589714",
@@ -10676,6 +12144,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -10693,13 +12164,17 @@
     "vals": [
      1,
      1,
-     582
+     590
     ],
-    "raw": "1 1 582",
-    "views": "582"
+    "raw": "1 1 590",
+    "views": "590"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh",
+    "typesafe"
+   ]
   },
   {
    "id": "2101098790510092734",
@@ -10729,6 +12204,9 @@
     "智能体",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -10755,6 +12233,9 @@
    "tags": [
     "智能体",
     "内容审核"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -10776,7 +12257,10 @@
     "views": "17"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101098309016223826",
@@ -10798,7 +12282,10 @@
     "views": "23"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_zh"
+   ]
   },
   {
    "id": "2101097408578904542",
@@ -10821,7 +12308,10 @@
     "views": "39"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101097344871936467",
@@ -10842,7 +12332,10 @@
     "views": "29"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101096548910395818",
@@ -10866,6 +12359,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10891,6 +12387,9 @@
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -10915,6 +12414,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -10939,7 +12441,10 @@
     "views": "1.6K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101096346249830495",
@@ -10963,7 +12468,10 @@
     "views": "3.1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101096030641238236",
@@ -10993,6 +12501,9 @@
     "成本速度",
     "工具资源",
     "金融交易"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11016,6 +12527,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11040,6 +12554,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_zh"
    ]
   },
   {
@@ -11067,6 +12584,10 @@
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "jev_top",
+    "jev_videos"
    ]
   },
   {
@@ -11088,7 +12609,10 @@
     "views": "58"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101095525793616162",
@@ -11116,6 +12640,9 @@
    ],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -11138,7 +12665,10 @@
     "views": "2.1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101095353697357921",
@@ -11163,6 +12693,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11187,7 +12720,10 @@
     "views": "1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101094920778129466",
@@ -11211,7 +12747,10 @@
     "https://t.co/ZhmlUaTNeU",
     "https://t.co/RfkEZmBJrR"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101094790230106272",
@@ -11232,7 +12771,10 @@
     "views": "30"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101094534369214516",
@@ -11256,6 +12798,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11282,6 +12827,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11310,6 +12858,9 @@
     "游戏对战",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11337,6 +12888,9 @@
    "tags": [
     "编程开发",
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11361,7 +12915,10 @@
     "views": "112"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101092904567726327",
@@ -11387,6 +12944,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11408,7 +12968,10 @@
     "views": "29"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101092610479931692",
@@ -11429,7 +12992,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101092202923618701",
@@ -11456,6 +13022,9 @@
     "编程开发",
     "智能体",
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11483,6 +13052,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11506,6 +13078,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11529,7 +13104,10 @@
     "views": "1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101091713976799561",
@@ -11551,7 +13129,10 @@
     "views": "4"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101091398447505567",
@@ -11578,6 +13159,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11600,7 +13184,10 @@
     "views": "30"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101091015188685130",
@@ -11625,6 +13212,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -11650,6 +13240,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11672,7 +13265,10 @@
     "views": "277"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101090579127951694",
@@ -11699,6 +13295,9 @@
    "tags": [
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -11723,7 +13322,10 @@
     "views": "3.1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101090330015932570",
@@ -11748,6 +13350,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11774,6 +13379,10 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos",
+    "typesafe"
    ]
   },
   {
@@ -11798,7 +13407,10 @@
     "https://t.co/3ln8wBR5ld",
     "https://t.co/3ln8wBR5ld"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101089914632991033",
@@ -11814,15 +13426,19 @@
    "metrics": {
     "vals": [
      1,
-     38
+     39
     ],
-    "raw": "1 38",
-    "views": "38"
+    "raw": "1 39",
+    "views": "39"
    },
    "extLinks": [],
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource",
+    "typesafe"
    ]
   },
   {
@@ -11844,7 +13460,10 @@
     "views": "46"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101089296971432319",
@@ -11870,6 +13489,9 @@
     "模型原理",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11892,7 +13514,10 @@
     "views": "95"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101089133515116757",
@@ -11915,6 +13540,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11940,6 +13568,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -11965,6 +13596,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -11988,7 +13622,10 @@
     "views": "4.7K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101088292569567420",
@@ -12013,6 +13650,9 @@
    "extLinks": [],
    "tags": [
     "金融交易"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12038,6 +13678,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12064,6 +13707,9 @@
     "编程开发",
     "模型原理",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12096,6 +13742,9 @@
     "游戏对战",
     "工具资源",
     "评测对比"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -12118,7 +13767,10 @@
     "views": "109"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101087590661414975",
@@ -12141,7 +13793,10 @@
     "views": "35"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101087222003065136",
@@ -12170,6 +13825,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12196,6 +13854,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12224,6 +13885,9 @@
     "编程开发",
     "成本速度",
     "金融交易"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12252,6 +13916,11 @@
     "成本速度",
     "工具资源",
     "评测对比"
+   ],
+   "sources": [
+    "jev_resource",
+    "jev_videos",
+    "typesafe"
    ]
   },
   {
@@ -12279,6 +13948,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12304,6 +13976,9 @@
     "智能体",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12330,6 +14005,9 @@
    "tags": [
     "编程开发",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12357,7 +14035,10 @@
     "https://t.co/5ncXCEYjws",
     "https://t.co/5ncXCEYjws"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101084916775883084",
@@ -12385,6 +14066,9 @@
     "智能体",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12410,6 +14094,9 @@
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12434,6 +14121,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -12461,6 +14151,9 @@
    "tags": [
     "编程开发",
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12491,6 +14184,9 @@
     "模型原理",
     "成本速度",
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12515,6 +14211,9 @@
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -12542,6 +14241,9 @@
    ],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -12565,7 +14267,10 @@
     "views": "215"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101083855193301236",
@@ -12588,7 +14293,10 @@
     "views": "199"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101083562623860772",
@@ -12609,7 +14317,10 @@
     "views": "21"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101083565043949713",
@@ -12635,6 +14346,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12663,6 +14377,9 @@
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -12679,15 +14396,19 @@
    "metrics": {
     "vals": [
      2,
-     367
+     370
     ],
-    "raw": "2 367",
-    "views": "367"
+    "raw": "2 370",
+    "views": "370"
    },
    "extLinks": [],
    "tags": [
     "模型原理",
     "金融交易"
+   ],
+   "sources": [
+    "jev_resource",
+    "typesafe"
    ]
   },
   {
@@ -12717,6 +14438,9 @@
     "模型原理",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12741,7 +14465,10 @@
     "https://t.co/mzxT6xHzmd",
     "https://t.co/mzxT6xHzmd"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource"
+   ]
   },
   {
    "id": "2101083001488839040",
@@ -12757,13 +14484,17 @@
    "metrics": {
     "vals": [
      2,
-     908
+     910
     ],
-    "raw": "2 908",
-    "views": "908"
+    "raw": "2 910",
+    "views": "910"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource",
+    "typesafe"
+   ]
   },
   {
    "id": "2101082703877791885",
@@ -12787,7 +14518,10 @@
     "https://t.co/mzxT6xHzmd",
     "https://t.co/mzxT6xHzmd"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource"
+   ]
   },
   {
    "id": "2101082416924487709",
@@ -12816,6 +14550,9 @@
    "tags": [
     "编程开发",
     "工具资源"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -12842,6 +14579,9 @@
    ],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12871,6 +14611,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12894,6 +14637,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -12911,15 +14657,19 @@
     "vals": [
      1,
      3,
-     83
+     85
     ],
-    "raw": "1 3 83",
-    "views": "83"
+    "raw": "1 3 85",
+    "views": "85"
    },
    "extLinks": [],
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "jev_resource",
+    "typesafe"
    ]
   },
   {
@@ -12945,6 +14695,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -12962,10 +14715,10 @@
     "vals": [
      1,
      1,
-     62
+     63
     ],
-    "raw": "1 1 62",
-    "views": "62"
+    "raw": "1 1 63",
+    "views": "63"
    },
    "extLinks": [
     "https://t.co/QNmEhZGqz0"
@@ -12973,6 +14726,10 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_resource",
+    "jev_videos"
    ]
   },
   {
@@ -12994,7 +14751,10 @@
     "views": "49"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101080860628041973",
@@ -13018,7 +14778,10 @@
     "views": "7.1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101080791644291483",
@@ -13039,7 +14802,10 @@
     "views": "27"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101080673813737806",
@@ -13061,7 +14827,10 @@
     "views": "236"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101080509204099404",
@@ -13083,7 +14852,10 @@
     "views": "901"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101080391637680261",
@@ -13106,7 +14878,10 @@
     "views": "775"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101080178617471088",
@@ -13131,6 +14906,9 @@
    "extLinks": [],
    "tags": [
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13156,6 +14934,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13184,6 +14965,9 @@
     "编程开发",
     "成本速度",
     "工具资源"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -13211,6 +14995,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13236,6 +15023,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13265,6 +15055,9 @@
     "模型原理",
     "成本速度",
     "工具资源"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -13288,7 +15081,10 @@
    "extLinks": [
     "https://t.co/0TlP7qGxtb"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101078409015337213",
@@ -13312,7 +15108,10 @@
     "https://t.co/mzxT6xHzmd",
     "https://t.co/mzxT6xHzmd"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource"
+   ]
   },
   {
    "id": "2101078288307478861",
@@ -13338,6 +15137,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13362,6 +15164,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_resource"
    ]
   },
   {
@@ -13385,6 +15190,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13412,6 +15220,9 @@
    "tags": [
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -13440,6 +15251,9 @@
     "编程开发",
     "智能体",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13468,6 +15282,9 @@
    ],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13493,6 +15310,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13517,7 +15337,10 @@
     "https://t.co/mzxT6xHzmd",
     "https://t.co/mzxT6xHzmd"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_resource"
+   ]
   },
   {
    "id": "2101076768870350866",
@@ -13539,7 +15362,10 @@
     "views": "18"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101076293211304180",
@@ -13565,6 +15391,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13591,6 +15420,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13616,6 +15448,9 @@
     "智能体",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13647,6 +15482,9 @@
     "编程开发",
     "游戏对战",
     "模型原理"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13673,7 +15511,10 @@
     "https://t.co/QxPYDX5Vpk",
     "https://t.co/QxPYDX5Vpk"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101074633214861492",
@@ -13696,7 +15537,10 @@
     "views": "36"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101074530978648233",
@@ -13720,6 +15564,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13743,7 +15590,10 @@
     "views": "429"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101074284731113980",
@@ -13770,6 +15620,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13793,7 +15646,10 @@
     "views": "124"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101074194260000982",
@@ -13820,6 +15676,9 @@
    "tags": [
     "游戏对战",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13842,7 +15701,10 @@
     "views": "183"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101073889266925822",
@@ -13869,6 +15731,9 @@
    "tags": [
     "编程开发",
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13893,6 +15758,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -13921,6 +15789,9 @@
     "智能体",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13947,6 +15818,9 @@
    "tags": [
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13972,6 +15846,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -13997,6 +15874,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14020,7 +15900,10 @@
     "views": "2.5K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101070906852298910",
@@ -14048,6 +15931,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14071,6 +15957,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14096,6 +15985,9 @@
     "编程开发",
     "模型原理",
     "内容审核"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14123,6 +16015,9 @@
    "tags": [
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14148,6 +16043,9 @@
    "tags": [
     "成本速度",
     "金融交易"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14169,7 +16067,10 @@
     "views": "10"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101068780537520629",
@@ -14195,6 +16096,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14219,7 +16123,10 @@
    "extLinks": [
     "https://t.co/0NdatSCGrX"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101068666356076706",
@@ -14245,6 +16152,9 @@
     "游戏对战",
     "模型原理",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14266,7 +16176,10 @@
     "views": "5"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101068557404799353",
@@ -14290,6 +16203,9 @@
    "tags": [
     "编程开发",
     "模型原理"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14317,6 +16233,9 @@
     "成本速度",
     "内容审核",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14344,6 +16263,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14370,6 +16292,9 @@
    "tags": [
     "编程开发",
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14396,6 +16321,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14422,6 +16350,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14447,6 +16378,9 @@
    "tags": [
     "游戏对战",
     "模型原理"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14473,6 +16407,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14502,6 +16439,9 @@
    "tags": [
     "工具资源",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14528,6 +16468,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14555,6 +16498,9 @@
    ],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14578,6 +16524,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14601,6 +16550,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14626,6 +16578,9 @@
    "tags": [
     "模型原理",
     "工具资源"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14648,7 +16603,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101065176069886152",
@@ -14678,6 +16636,9 @@
    "tags": [
     "编程开发",
     "工具资源"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -14707,6 +16668,9 @@
    "tags": [
     "编程开发",
     "智能体"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14735,6 +16699,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14762,6 +16729,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14783,7 +16753,10 @@
     "views": "89"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101064559515804102",
@@ -14809,6 +16782,9 @@
     "编程开发",
     "智能体",
     "模型原理"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14835,6 +16811,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -14859,7 +16838,10 @@
     "https://t.co/p1xGgo5yQB",
     "https://t.co/p1xGgo5yQB"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101064292242219407",
@@ -14886,6 +16868,9 @@
    "tags": [
     "内容审核",
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14915,6 +16900,9 @@
     "游戏对战",
     "工具资源",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -14939,7 +16927,10 @@
     "views": "2.3K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101063934371594644",
@@ -14964,7 +16955,10 @@
     "https://t.co/rCalG5CxsI",
     "https://t.co/rCalG5CxsI"
    ],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101063687033491735",
@@ -14985,7 +16979,10 @@
     "views": "6"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101063650631135349",
@@ -15014,6 +17011,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -15037,7 +17037,10 @@
     "views": "161"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101063296606445659",
@@ -15062,6 +17065,9 @@
     "编程开发",
     "模型原理",
     "评测对比"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -15087,6 +17093,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15110,6 +17119,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15133,6 +17145,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "typesafe"
    ]
   },
   {
@@ -15159,6 +17174,9 @@
    "tags": [
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15185,6 +17203,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15211,6 +17232,9 @@
     "智能体",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15232,7 +17256,10 @@
     "views": "12"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "typesafe"
+   ]
   },
   {
    "id": "2101061688338575739",
@@ -15260,6 +17287,10 @@
     "编程开发",
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_top",
+    "jev_videos"
    ]
   },
   {
@@ -15284,6 +17315,9 @@
    "extLinks": [],
    "tags": [
     "工具资源"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15309,6 +17343,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15335,6 +17372,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15360,6 +17400,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15388,6 +17431,9 @@
    "tags": [
     "编程开发",
     "智能体"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15414,6 +17460,9 @@
    "tags": [
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15440,6 +17489,9 @@
    "tags": [
     "编程开发",
     "金融交易"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15467,6 +17519,9 @@
    "tags": [
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15492,6 +17547,9 @@
    "extLinks": [],
    "tags": [
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15514,7 +17572,10 @@
     "views": "116"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101058200787386832",
@@ -15539,6 +17600,9 @@
     "编程开发",
     "模型原理",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15564,6 +17628,9 @@
    "extLinks": [],
    "tags": [
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15591,6 +17658,9 @@
     "成本速度",
     "内容审核",
     "金融交易"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15612,7 +17682,10 @@
     "views": "20"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101056078872256935",
@@ -15640,6 +17713,9 @@
     "编程开发",
     "工具资源",
     "金融交易"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15666,6 +17742,9 @@
    "tags": [
     "成本速度",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15691,6 +17770,9 @@
    "extLinks": [],
    "tags": [
     "游戏对战"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15718,6 +17800,9 @@
    "tags": [
     "智能体",
     "评测对比"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15743,6 +17828,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15768,6 +17856,9 @@
     "编程开发",
     "成本速度",
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15789,7 +17880,10 @@
     "views": "7"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_videos"
+   ]
   },
   {
    "id": "2101053797279666303",
@@ -15814,6 +17908,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15840,6 +17937,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15863,6 +17963,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15888,6 +17991,9 @@
     "编程开发",
     "游戏对战",
     "内容审核"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15917,6 +18023,9 @@
    "tags": [
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_videos"
    ]
   },
   {
@@ -15945,6 +18054,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -15970,6 +18082,9 @@
    "extLinks": [],
    "tags": [
     "成本速度"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16000,6 +18115,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16027,6 +18145,9 @@
    "tags": [
     "编程开发",
     "成本速度"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16051,7 +18172,10 @@
     "views": "75K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100989922907959419",
@@ -16075,7 +18199,10 @@
     "views": "21K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100984923926728920",
@@ -16099,7 +18226,10 @@
     "views": "6.8K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100973744919658605",
@@ -16123,7 +18253,10 @@
     "views": "13K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100965885041426735",
@@ -16146,7 +18279,10 @@
     "views": "1.1K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100923960493818177",
@@ -16172,6 +18308,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16198,6 +18337,9 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16222,7 +18364,10 @@
     "views": "126K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100895894287839255",
@@ -16246,7 +18391,10 @@
     "views": "314K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100884977001091174",
@@ -16274,6 +18422,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16302,6 +18453,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16326,7 +18480,10 @@
     "views": "51K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100864907046768890",
@@ -16354,6 +18511,9 @@
     "编程开发",
     "智能体",
     "成本速度"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16383,6 +18543,9 @@
    "tags": [
     "编程开发",
     "工具资源"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16409,6 +18572,9 @@
    "extLinks": [],
    "tags": [
     "模型原理"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16433,7 +18599,10 @@
     "views": "145K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100818090733052363",
@@ -16457,7 +18626,10 @@
     "views": "84K"
    },
    "extLinks": [],
-   "tags": []
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
   },
   {
    "id": "2100813094951748074",
@@ -16483,6 +18655,9 @@
    "extLinks": [],
    "tags": [
     "智能体"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16511,6 +18686,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16539,6 +18717,9 @@
    ],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_top"
    ]
   },
   {
@@ -16565,6 +18746,622 @@
    "extLinks": [],
    "tags": [
     "编程开发"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100747035746193598",
+   "url": "https://x.com/typesafeai/status/2100747035746193598",
+   "handle": "typesafeai",
+   "author": "TypeSafe AI",
+   "date": "2026-09-18T00:41:37+00:00",
+   "text": "@OpenRouter\n 🤝 \n@typesafeai",
+   "lang": "en",
+   "video": true,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100744692048818176/img/lnRQ8fZbTFSI0YuV.jpg",
+   "metrics": {
+    "vals": [
+     39,
+     70,
+     1700,
+     152000
+    ],
+    "raw": "39 70 1.7K 152K",
+    "views": "152K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100744709589316009",
+   "url": "https://x.com/OpenRouter/status/2100744709589316009",
+   "handle": "OpenRouter",
+   "author": "OpenRouter",
+   "date": "2026-09-18T00:32:23+00:00",
+   "text": "Jev by \n@typesafeai\n is now on OpenRouter, in beta.\n\nJev is a System One model. Instead of generating text, it takes your app's state plus a typed question and returns a typed decision with a probability attached. There is no JSON prompting, parsing layer, and nothing to validate",
+   "lang": "en",
+   "video": true,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100744692048818176/img/lnRQ8fZbTFSI0YuV.jpg",
+   "metrics": {
+    "vals": [
+     116,
+     367,
+     3400,
+     471000
+    ],
+    "raw": "116 367 3.4K 471K",
+    "views": "471K"
+   },
+   "extLinks": [],
+   "tags": [
+    "编程开发",
+    "模型原理"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100736454850908344",
+   "url": "https://x.com/rinte0321/status/2100736454850908344",
+   "handle": "rinte0321",
+   "author": "Rinte",
+   "date": "2026-09-17T23:59:35+00:00",
+   "text": "I created an EC real-time customer service demo using Jev and gpt-live-1.  \nEven in the middle of a conversation, it immediately suggests recommended products based on the user's speech, which feels like a really great experience.\n\nAlso, in this demo, I only implemented it",
+   "lang": "en",
+   "video": true,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg",
+   "metrics": {
+    "vals": [
+     12,
+     306,
+     1600,
+     533000
+    ],
+    "raw": "12 306 1.6K 533K",
+    "views": "533K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100694549362553153",
+   "url": "https://x.com/tamarajtran/status/2100694549362553153",
+   "handle": "tamarajtran",
+   "author": "tamara",
+   "date": "2026-09-17T21:13:04+00:00",
+   "text": "found the perfect use case for \n@typesafeai\n Jev: \n\ninstant compaction\n\nin 2026, why is compaction still a summarization prompt?\n\nJev can make it instant by scoring every tool call and dropping what’s irrelevant",
+   "lang": "en",
+   "video": true,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100694537672998912/img/OF8vottg6-45ZgNl.jpg",
+   "metrics": {
+    "vals": [
+     361,
+     854,
+     9700,
+     3000000
+    ],
+    "raw": "361 854 9.7K 3M",
+    "views": "3M"
+   },
+   "extLinks": [],
+   "tags": [
+    "智能体"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100688880798159254",
+   "url": "https://x.com/CloudflareDev/status/2100688880798159254",
+   "handle": "CloudflareDev",
+   "author": "Cloudflare Developers",
+   "date": "2026-09-17T20:50:32+00:00",
+   "text": "Jev from \n@typesafeai\n is now live on \n@CloudflareDev\n AI Gateway. Try the first System One model — send state and typed questions; get structured answers your code can use directly.",
+   "lang": "en",
+   "video": false,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/card_img/2099545547996631041/v9wkFJYq?format=jpg&name=small",
+   "metrics": {
+    "vals": [
+     15,
+     230,
+     1000,
+     170000
+    ],
+    "raw": "15 230 1K 170K",
+    "views": "170K"
+   },
+   "extLinks": [
+    "https://t.co/yLYH6Sigvh",
+    "https://t.co/yLYH6Sigvh"
+   ],
+   "tags": [
+    "编程开发",
+    "模型原理"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100654891756589230",
+   "url": "https://x.com/TheMattBerman/status/2100654891756589230",
+   "handle": "TheMattBerman",
+   "author": "Matthew Berman",
+   "date": "2026-09-17T18:35:29+00:00",
+   "text": "jev is INSANE.\n\nin 40 seconds it broke down 724 live ads from 37 brands.\n\nevery hook. every format. offer. cta. awareness stage. landing page mismatch. used 9 cents of tokens. \n(will be avail in \n@stealads\n + mcp)",
+   "lang": "en",
+   "video": true,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100654321792684032/img/cXvU50KmCe6QFu86.jpg",
+   "metrics": {
+    "vals": [
+     149,
+     408,
+     5900,
+     718000
+    ],
+    "raw": "149 408 5.9K 718K",
+    "views": "718K"
+   },
+   "extLinks": [],
+   "tags": [
+    "成本速度"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100628846240264348",
+   "url": "https://x.com/SUOHA_AI/status/2100628846240264348",
+   "handle": "SUOHA_AI",
+   "author": "梭哈.AI",
+   "date": "2026-09-17T16:51:59+00:00",
+   "text": "Browser Use 接上 JEV 这速度太他妈吓人了吧？？\n\n过去大家看 GPT、Claude 操控浏览器，体验其实并不好，因为真的太慢了，中间还经常卡死...\n\n因为让大模型写一堆长篇大论去操作网页，本质上就是杀鸡用牛刀\n\n在网页上点按钮，本质上就是一个离散的多选题，根本不需要 AI 会写诗\n\nJEV 拿到 DOM",
+   "lang": "zh",
+   "video": true,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100628538793533440/img/UjeWs0lexdjznvu9.jpg",
+   "metrics": {
+    "vals": [
+     209,
+     244,
+     1500,
+     256000
+    ],
+    "raw": "209 244 1.5K 256K",
+    "views": "256K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100610014683758896",
+   "url": "https://x.com/manateelazycat/status/2100610014683758896",
+   "handle": "manateelazycat",
+   "author": "Andy Stewart",
+   "date": "2026-09-17T15:37:09+00:00",
+   "text": "Jev是一个决策小模型，但是从第一性原理来看\n\nJev真的不如离线设备跑一个 Qwen 3.8 Flash Next 或者离线小模型更香，这些离线模型除了可以做决策以外，还可以干很多其他的事情\n\n当然我也相信社区很快就可以开发完全离线的 Jev 模型出来\n\n那样很多自动化用电脑的方式就可以超快、隐私而且成本低",
+   "lang": "zh",
+   "video": false,
+   "long": false,
+   "thumb": "",
+   "metrics": {
+    "vals": [
+     18,
+     2,
+     77,
+     17000
+    ],
+    "raw": "18 2 77 17K",
+    "views": "17K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100591235471966472",
+   "url": "https://x.com/vista8/status/2100591235471966472",
+   "handle": "vista8",
+   "author": "向阳乔木",
+   "date": "2026-09-17T14:22:32+00:00",
+   "text": "这两天最火的新构架大模型 Jev，官方Waitlist填写地址\n\nVercel AI Gateway已经可以调用，明天抽空试试。\n\n两个地址见评论区，建议收藏。\n\n很多朋友在聊，但具体应用场景还需要挖掘。",
+   "lang": "zh",
+   "video": false,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/media/HSbMOCIakAAuArI?format=jpg&name=small",
+   "metrics": {
+    "vals": [
+     9,
+     4,
+     22,
+     39000
+    ],
+    "raw": "9 4 22 39K",
+    "views": "39K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100578308912283656",
+   "url": "https://x.com/nasuvit_z/status/2100578308912283656",
+   "handle": "nasuvit_z",
+   "author": "nasuuu",
+   "date": "2026-09-17T13:31:10+00:00",
+   "text": "I hurriedly wrote a blog post. It's about Jev!\n\nThe recently released \"Jev\" has become a huge topic of conversation, and in this post, I explain what sets it apart from conventional technologies, using concrete examples.\n\nIf Jev becomes widespread, will AI agents become obsolete?",
+   "lang": "en",
+   "video": false,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/card_img/2100577371187507200/kb9C2nXm?format=jpg&name=small",
+   "metrics": {
+    "vals": [
+     15,
+     234,
+     1400,
+     144000
+    ],
+    "raw": "15 234 1.4K 144K",
+    "views": "144K"
+   },
+   "extLinks": [
+    "https://t.co/aWCy4NfDqL",
+    "https://t.co/aWCy4NfDqL"
+   ],
+   "tags": [
+    "编程开发",
+    "智能体"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100571760869699880",
+   "url": "https://x.com/oran_ge/status/2100571760869699880",
+   "handle": "oran_ge",
+   "author": "Orange AI",
+   "date": "2026-09-17T13:05:09+00:00",
+   "text": "终于看到了大语言模型之后的一个新的模型范式\nJev 是系统1模型，极速响应，价格超低，但不经过语言系统，不能说话，完全客观，也不需要语言层面的对齐。\n潜力很大，也许是通向 AGI 的另一条路。",
+   "lang": "zh",
+   "video": true,
+   "long": false,
+   "thumb": "",
+   "metrics": {
+    "vals": [
+     68,
+     27,
+     201,
+     64000
+    ],
+    "raw": "68 27 201 64K",
+    "views": "64K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100530193538695565",
+   "url": "https://x.com/jakevin7/status/2100530193538695565",
+   "handle": "jakevin7",
+   "author": "kabikabi",
+   "date": "2026-09-17T10:19:58+00:00",
+   "text": "Jev 太屌了！！！完全是模型的新方向+新范式。带来了太多不一样的东西。\n用 OpenCLI 配合了下 Jev，爽到飞起。\n以后其他大规模召回、AI推荐系统、实时交易，都可以用这个模型。\n玩法太多了！",
+   "lang": "zh",
+   "video": false,
+   "long": false,
+   "thumb": "",
+   "metrics": {
+    "vals": [
+     86,
+     68,
+     945,
+     160000
+    ],
+    "raw": "86 68 945 160K",
+    "views": "160K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100529814289678514",
+   "url": "https://x.com/ai_agent_dev/status/2100529814289678514",
+   "handle": "ai_agent_dev",
+   "author": "遠藤巧巳 - AIネイティブな会社の作り方",
+   "date": "2026-09-17T10:18:28+00:00",
+   "text": "Jev is available for immediate use here without being on the waitlist again!",
+   "lang": "en",
+   "video": false,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/card_img/2100372968006402048/-yJschSC?format=png&name=small",
+   "metrics": {
+    "vals": [
+     3,
+     106,
+     1100,
+     122000
+    ],
+    "raw": "3 106 1.1K 122K",
+    "views": "122K"
+   },
+   "extLinks": [
+    "https://t.co/pRdp2jto0F",
+    "https://t.co/pRdp2jto0F"
+   ],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100454607638179895",
+   "url": "https://x.com/NFT_Chen/status/2100454607638179895",
+   "handle": "NFT_Chen",
+   "author": "SuSu_酥酥👅",
+   "date": "2026-09-17T05:19:37+00:00",
+   "text": "🔥码住：如何最快使用Jev模型？输入只要 $0.04 / 1M tokens，比 LLM 最高便宜 444.6 倍、快 193.6 倍！\n\nJev 已上 Vercel AI Gateway。状态进去，Boolean / Choice / Score + 概率直接出来，70–500ms 就能决定、路由、打分、停手。\n最快 4 步：\n1️⃣Vercel Dashboard 创建 AI Gateway Key，设",
+   "lang": "zh",
+   "video": false,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/media/HSZQUsiawAAtIvT?format=jpg&name=small",
+   "metrics": {
+    "vals": [
+     7,
+     22,
+     126,
+     86000
+    ],
+    "raw": "7 22 126 86K",
+    "views": "86K"
+   },
+   "extLinks": [],
+   "tags": [
+    "成本速度"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100378959653507175",
+   "url": "https://x.com/vercel_dev/status/2100378959653507175",
+   "handle": "vercel_dev",
+   "author": "Vercel Developers",
+   "date": "2026-09-17T00:19:01+00:00",
+   "text": "Jev from \n@typesafeai\n is on AI Gateway.\n\nBuild agents that decide, route, score, and stop in milliseconds:\n𝚊𝚠𝚊𝚒𝚝 𝚎𝚟𝚊𝚕𝚞𝚊𝚝𝚎({\n  𝚖𝚘𝚍𝚎𝚕: '𝚝𝚢𝚙𝚎𝚜𝚊𝚏𝚎-𝚊𝚒/𝚓𝚎𝚟',\n  𝚜𝚝𝚊𝚝𝚎,\n  𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜,\n});",
+   "lang": "en",
+   "video": false,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/card_img/2100376485085478912/OvBEWeDo?format=jpg&name=small",
+   "metrics": {
+    "vals": [
+     24,
+     122,
+     980,
+     294000
+    ],
+    "raw": "24 122 980 294K",
+    "views": "294K"
+   },
+   "extLinks": [
+    "https://t.co/rzyPuHIJin",
+    "https://t.co/rzyPuHIJin"
+   ],
+   "tags": [
+    "编程开发",
+    "智能体",
+    "成本速度"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100376436272173088",
+   "url": "https://x.com/typesafeai/status/2100376436272173088",
+   "handle": "typesafeai",
+   "author": "TypeSafe AI",
+   "date": "2026-09-17T00:09:00+00:00",
+   "text": "Jev is now available on the \n@vercel\n AI Gateway",
+   "lang": "en",
+   "video": false,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/card_img/2100372968006402048/-yJschSC?format=png&name=small",
+   "metrics": {
+    "vals": [
+     62,
+     191,
+     2500,
+     185000
+    ],
+    "raw": "62 191 2.5K 185K",
+    "views": "185K"
+   },
+   "extLinks": [
+    "https://t.co/KUUSJdotIy",
+    "https://t.co/KUUSJdotIy"
+   ],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100190746389135772",
+   "url": "https://x.com/MatijaSosic/status/2100190746389135772",
+   "handle": "MatijaSosic",
+   "author": "Matija Sosic",
+   "date": "2026-09-16T11:51:08+00:00",
+   "text": "Here's a 45-second TL;DR on Jev.\n\nI find the core idea beautifully simple, but the video made it really hard to understand.\n\nHope you find it helpful.",
+   "lang": "en",
+   "video": true,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100190298521337856/img/p7O80DWbiTZbxLWx.jpg",
+   "metrics": {
+    "vals": [
+     205,
+     882,
+     8900,
+     1400000
+    ],
+    "raw": "205 882 8.9K 1.4M",
+    "views": "1.4M"
+   },
+   "extLinks": [],
+   "tags": [
+    "编程开发"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2100120850754412967",
+   "url": "https://x.com/ctgptlb/status/2100120850754412967",
+   "handle": "ctgptlb",
+   "author": "AGIラボ",
+   "date": "2026-09-16T07:13:23+00:00",
+   "text": "【Breaking News】ChatGPT Co-Inventor Unveils New AI Model \"Jev\" After 2 Years of Stealth Development\n\n・20-200x faster than LLMs, 40-400x cheaper\n・Output tokens are permanently free (too cheap to even measure for billing)\n・Returns \"typed judgments\" instead of strings",
+   "lang": "ja",
+   "video": false,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/media/HSUgsHBasAAgNcz?format=png&name=small",
+   "metrics": {
+    "vals": [
+     43,
+     1400,
+     8400,
+     957000
+    ],
+    "raw": "43 1.4K 8.4K 957K",
+    "views": "957K"
+   },
+   "extLinks": [],
+   "tags": [
+    "成本速度",
+    "评测对比"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2099944756931596454",
+   "url": "https://x.com/typesafeai/status/2099944756931596454",
+   "handle": "typesafeai",
+   "author": "TypeSafe AI",
+   "date": "2026-09-15T19:33:39+00:00",
+   "text": "we are officially out of stealth! join the frontier and get access to Jev on our website (link on profile)",
+   "lang": "en",
+   "video": true,
+   "long": false,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg",
+   "metrics": {
+    "vals": [
+     160,
+     317,
+     3500,
+     562000
+    ],
+    "raw": "160 317 3.5K 562K",
+    "views": "562K"
+   },
+   "extLinks": [],
+   "tags": [],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2099925682726002904",
+   "url": "https://x.com/CompleteSkeptic/status/2099925682726002904",
+   "handle": "CompleteSkeptic",
+   "author": "Diogo Almeida",
+   "date": "2026-09-15T18:17:52+00:00",
+   "text": "After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI?\n\nI’ve spent the last 2 years in stealth building a new way to train models (RLCD), and a new type of frontier AI model that we are releasing today: Jev\n\n• 20-200x faster\n• 40-400x",
+   "lang": "en",
+   "video": true,
+   "long": true,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg",
+   "metrics": {
+    "vals": [
+     3700,
+     13000,
+     70000,
+     35000000
+    ],
+    "raw": "3.7K 13K 70K 35M",
+    "views": "35M"
+   },
+   "extLinks": [],
+   "tags": [
+    "模型原理",
+    "成本速度"
+   ],
+   "sources": [
+    "jev_top"
+   ]
+  },
+  {
+   "id": "2099925684256899543",
+   "url": "https://x.com/CompleteSkeptic/status/2099925684256899543",
+   "handle": "CompleteSkeptic",
+   "author": "Diogo Almeida",
+   "date": "2026-09-15T18:17:52+00:00",
+   "text": "The gains aren’t free: Jev can't generate text\n\nComparing Jev vs LLMs side-by-side makes the trade-off clear\n\nFun fact: replacing sequential computation with parallel is the same way Transformers leapfrogged RNNs",
+   "lang": "en",
+   "video": false,
+   "long": true,
+   "thumb": "",
+   "metrics": {
+    "vals": [
+     70,
+     235,
+     5800,
+     2000000
+    ],
+    "raw": "70 235 5.8K 2M",
+    "views": "2M"
+   },
+   "extLinks": [],
+   "tags": [
+    "编程开发",
+    "成本速度",
+    "评测对比"
+   ],
+   "sources": [
+    "jev_top"
    ]
   }
  ]

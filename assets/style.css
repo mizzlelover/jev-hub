@@ -89,6 +89,7 @@ em{font-style:normal}
 .stat b{display:block;font-size:30px;font-weight:800;letter-spacing:-.5px;
   background:linear-gradient(135deg,#fff,var(--txt-2));-webkit-background-clip:text;background-clip:text;color:transparent}
 .stat span{font-size:12.5px;color:var(--txt-3);letter-spacing:.5px}
+.stats-note{margin:-22px 0 34px;text-align:center;font-size:13px;color:var(--txt-3)}
 
 .hero-actions{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
 .btn{
@@ -233,9 +234,14 @@ em{font-style:normal}
 #loadMore[hidden]{display:none}
 
 /* ---------- about ---------- */
-.about{display:grid;grid-template-columns:repeat(3,1fr);gap:34px}
+.about{display:grid;grid-template-columns:repeat(4,1fr);gap:30px}
 .about-col h3{font-size:15px;margin:0 0 10px;color:var(--txt)}
 .about-col p{margin:0;color:var(--txt-3);font-size:13.8px}
+.about-col .author-name{
+  font-size:19px;font-weight:800;color:var(--txt);letter-spacing:.5px;margin-bottom:4px;
+  background:linear-gradient(120deg,var(--acc-3),var(--acc-2));
+  -webkit-background-clip:text;background-clip:text;color:transparent;display:inline-block;
+}
 .links{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:7px}
 .links a{font-size:13.8px;color:var(--acc-2)}
 .links a:hover{text-decoration:underline}
@@ -244,6 +250,8 @@ em{font-style:normal}
 .footer{border-top:1px solid var(--line);padding:34px 0;background:var(--bg)}
 .footer-inner{text-align:center;color:var(--txt-3);font-size:13px}
 .footer-inner p{margin:0 0 6px}
+.footer-brand{font-size:16px;font-weight:800;color:var(--txt);letter-spacing:.5px}
+.footer-brand span{font-size:12.5px;font-weight:500;color:var(--txt-3);margin-left:8px;letter-spacing:0}
 .footer-sub a{color:var(--txt-2)}
 
 /* ---------- empty ---------- */
@@ -252,7 +260,7 @@ em{font-style:normal}
 @media(max-width:960px){
   .grid{grid-template-columns:repeat(2,1fr)}
   .featured-grid{grid-template-columns:1fr}
-  .about{grid-template-columns:1fr;gap:24px}
+  .about{grid-template-columns:repeat(2,1fr);gap:26px}
   .starter-card{grid-template-columns:1fr}
   .starter-media{min-height:200px;aspect-ratio:16/9}
   .starter-body{padding:26px 24px}

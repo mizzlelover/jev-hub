@@ -2,11 +2,12 @@
   "use strict";
 
   var PAGE = 60;
-  var state = { all: [], filtered: [], shown: PAGE, type: "all", lang: "all", tag: "all", q: "" };
+  var H24 = 24 * 3600 * 1000;
+  var state = { all: [], filtered: [], shown: PAGE, time: "24h", type: "all", lang: "all", tag: "all", q: "" };
+  var REF = Date.now(); // 时间窗口的参照点：取最近一次更新时间
 
   var LANG_LABEL = { zh: "中文", en: "EN", ja: "日本語", ko: "한국어", ar: "AR", ru: "RU" };
   var LANG_FULL = { zh: "中文", en: "英文", ja: "日文", ko: "韩文", ar: "阿拉伯文", ru: "俄文" };
-  var TYPE_LABEL = { video: "演示视频", long: "长文", post: "讨论" };
 
   var el = function (id) { return document.getElementById(id); };
 
@@ -25,6 +26,13 @@
     if (it.video) return "video";
     if (it.long) return "long";
     return "post";
+  }
+
+  function ts(it) { return new Date(it.date).getTime(); }
+
+  function inWindow(it, w) {
+    if (w === "all") return true;
+    return (REF - ts(it)) <= H24;
   }
 
   function hashHue(s) {
@@ -103,32 +111,46 @@
       "</div></a>";
   }
 
-  // ---------- render ----------
-  function renderStats(meta) {
-    // 与类型标签保持同一口径：视频优先，长文指「非视频的长文」，三者互斥
-    var all = state.all || [];
+  // ---------- 统计 ----------
+  function countsOf(list) {
     var v = 0, l = 0, seen = {};
-    all.forEach(function (it) {
+    list.forEach(function (it) {
       if (it.video) v++;
       else if (it.long) l++;
       seen[it.handle] = 1;
     });
-    el("s-total").textContent = all.length;
-    el("s-video").textContent = v;
-    el("s-long").textContent = l;
-    el("s-author").textContent = Object.keys(seen).length;
-    var f = new Date(meta.window_from), t = new Date(meta.window_to);
+    return { total: list.length, video: v, long: l, author: Object.keys(seen).length };
+  }
+
+  function renderStats(meta) {
+    var all = state.all || [];
+    var c = countsOf(all);
+    el("s-total").textContent = c.total;
+    el("s-video").textContent = c.video;
+    el("s-long").textContent = c.long;
+    el("s-author").textContent = c.author;
+
+    var recent = all.filter(function (it) { return inWindow(it, "24h"); });
+    var rc = countsOf(recent);
+    el("statsNote").textContent = "其中最近 24 小时：" + rc.total + " 条动态 · " + rc.video + " 个演示视频 · " + rc.long + " 篇长文";
+
+    var t = new Date(meta.generated_at || Date.now());
     var p = function (n) { return (n < 10 ? "0" : "") + n; };
     var fmt = function (d) { return p(d.getMonth() + 1) + "/" + p(d.getDate()) + " " + p(d.getHours()) + ":" + p(d.getMinutes()); };
-    el("windowText").textContent = fmt(f) + " – " + fmt(t);
+    el("windowText").textContent = fmt(t);
     el("genAt").textContent = fmt(t);
   }
 
   function renderFeatured(items) {
-    var top = items.slice().sort(function (a, b) { return metric(b) - metric(a); }).slice(0, 8);
-    el("featuredGrid").innerHTML = top.map(featuredHTML).join("");
+    var recent = items.filter(function (it) { return !it.pinned && inWindow(it, "24h"); });
+    var rest = items.filter(function (it) { return !it.pinned && !inWindow(it, "24h"); });
+    var byMetric = function (a, b) { return metric(b) - metric(a); };
+    var top = recent.slice().sort(byMetric);
+    if (top.length < 8) top = top.concat(rest.slice().sort(byMetric));
+    el("featuredGrid").innerHTML = top.slice(0, 8).map(featuredHTML).join("");
   }
 
+  // ---------- 筛选 ----------
   function buildChips(container, options, key) {
     container.innerHTML = options.map(function (o) {
       return '<button class="chip' + (o.value === state[key] ? " on" : "") +
@@ -139,6 +161,7 @@
 
   // 统计时忽略 exceptKey 这一维度，从而让各维度计数随其他已选条件联动
   function baseMatch(it, exceptKey) {
+    if (exceptKey !== "time" && !inWindow(it, state.time)) return false;
     if (exceptKey !== "type" && state.type !== "all" && typeOf(it) !== state.type) return false;
     if (exceptKey !== "lang" && state.lang !== "all" && it.lang !== state.lang) return false;
     if (exceptKey !== "tag" && state.tag !== "all" && (it.tags || []).indexOf(state.tag) < 0) return false;
@@ -151,7 +174,8 @@
       if (!baseMatch(it, dim)) return;
       if (dim === "type") { if (typeOf(it) === value) n++; }
       else if (dim === "lang") { if (it.lang === value) n++; }
-      else if ((it.tags || []).indexOf(value) >= 0) n++;
+      else if (dim === "tag") { if ((it.tags || []).indexOf(value) >= 0) n++; }
+      else if (dim === "time") { if (inWindow(it, value)) n++; }
     });
     return n;
   }
@@ -165,10 +189,20 @@
   function renderFilters() {
     var all = state.all;
 
-    // 若某维度当前选中项在新条件下已无结果，自动回退到「全部」
-    ["type", "lang", "tag"].forEach(function (dim) {
-      if (state[dim] !== "all" && countDim(dim, state[dim]) === 0) state[dim] = "all";
+    // 若某维度当前选中项在新条件下已无结果，自动回退到默认
+    ["time", "type", "lang", "tag"].forEach(function (dim) {
+      if (dim === "time") {
+        if (countDim("time", state.time) === 0 && countDim("time", "all") > 0) state.time = "all";
+      } else if (state[dim] !== "all" && countDim(dim, state[dim]) === 0) {
+        state[dim] = "all";
+      }
     });
+
+    // 时间
+    buildChips(el("timeChips"), [
+      { value: "24h", label: "最近 24 小时", count: countDim("time", "24h") },
+      { value: "all", label: "全部", count: countDim("time", "all") }
+    ], "time");
 
     // 类型
     var tOpts = [{ value: "all", label: "全部", count: totalDim("type") }];
@@ -203,6 +237,7 @@
     renderFilters();
     var q = state.q.trim().toLowerCase();
     state.filtered = state.all.filter(function (i) {
+      if (!inWindow(i, state.time)) return false;
       if (state.type !== "all" && typeOf(i) !== state.type) return false;
       if (state.lang !== "all" && i.lang !== state.lang) return false;
       if (state.tag !== "all" && (i.tags || []).indexOf(state.tag) < 0) return false;
@@ -228,12 +263,11 @@
     el("loadMore").hidden = state.shown >= state.filtered.length;
   }
 
-  // ---------- events ----------
+  // ---------- 事件 ----------
   document.addEventListener("click", function (e) {
     var chip = e.target.closest ? e.target.closest(".chip") : null;
     if (!chip) return;
-    var k = chip.getAttribute("data-k"), v = chip.getAttribute("data-v");
-    state[k] = v;
+    state[chip.getAttribute("data-k")] = chip.getAttribute("data-v");
     apply();
   });
 
@@ -249,12 +283,15 @@
     renderGrid();
   });
 
-  // ---------- boot ----------
+  // ---------- 启动 ----------
   fetch("data/posts.json")
     .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then(function (data) {
       state.all = data.items || [];
-      renderStats(data.meta || {});
+      var meta = data.meta || {};
+      var ref = new Date(meta.generated_at || meta.window_to || Date.now()).getTime();
+      if (isFinite(ref)) REF = ref;
+      renderStats(meta);
       renderFeatured(state.all);
       apply();
     })

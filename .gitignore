@@ -1,0 +1,17 @@
+# ---- 私密信息 / 运行时（绝不提交）----
+.env
+*.env
+secrets/
+cookies*.json
+*x_cookies*
+*.token
+*.session
+
+# 采集运行时与存档（均在仓库外，这里再兜一层）
+.bh-runtime/
+.jev-ops/
+*.log
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
