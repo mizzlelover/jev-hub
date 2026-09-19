@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JEV 24小时 · X 上关于 Jev 的长文与演示视频聚合</title>
+<meta name="description" content="过去 24 小时，X 上关于 TypeSafe AI 系统一模型 Jev 的全部长文与演示视频聚合，保留原帖链接与作者署名。">
+<meta property="og:title" content="JEV 24小时 · X 长文与演示视频聚合">
+<meta property="og:description" content="过去 24 小时 X 上关于 Jev 的全部长文与演示视频，保留原链与来源。">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="#top">
+      <span class="brand-mark">JEV</span>
+      <span class="brand-sub">24h 聚合</span>
+    </a>
+    <nav class="topnav">
+      <a href="#starter">小白入门</a>
+      <a href="#featured">编辑精选</a>
+      <a href="#gallery">全部动态</a>
+      <a href="#about">关于</a>
+      <a class="topnav-cta" href="https://github.com/mizzlelover/jev-hub" id="repoLink" target="_blank" rel="noopener">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-glow"></div>
+    <div class="wrap hero-inner">
+      <div class="hero-badge">数据窗口 <span id="windowText">—</span> · 来源 X 搜索</div>
+      <h1 class="hero-title">
+        过去 <em>24 小时</em>，<br>X 上关于 <span class="jev">Jev</span> 的一切
+      </h1>
+      <p class="hero-lead">
+        TypeSafe AI 的「系统一模型」Jev 发布后迅速刷屏。我们抓取了 24 小时内 X 上关于 Jev 的
+        <strong>长文</strong>与<strong>演示视频</strong>，逐条保留<strong>原帖链接</strong>与<strong>作者署名</strong>，一站式查阅。
+      </p>
+
+      <div class="stats" id="stats">
+        <div class="stat"><b id="s-total">—</b><span>条动态</span></div>
+        <div class="stat"><b id="s-video">—</b><span>演示视频</span></div>
+        <div class="stat"><b id="s-long">—</b><span>长文</span></div>
+        <div class="stat"><b id="s-author">—</b><span>位作者</span></div>
+      </div>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#starter">小白先读这篇 →</a>
+        <a class="btn btn-ghost" href="#gallery">浏览全部</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- STARTER / PINNED -->
+  <section class="section starter" id="starter">
+    <div class="wrap">
+      <a class="starter-card" href="https://x.com/dboy_yi2025/status/2100888192576880692" target="_blank" rel="noopener">
+        <div class="starter-media">
+          <img src="https://pbs.twimg.com/media/HSfaaKAaUAApGl7?format=jpg&amp;name=large" alt="读不懂也要读懂系列01 封面" loading="lazy" referrerpolicy="no-referrer">
+        </div>
+        <div class="starter-body">
+          <div class="starter-badges">
+            <span class="b-beginner">小白入门</span>
+            <span class="b-rec">编辑推荐 · 先读这篇</span>
+          </div>
+          <h2>读不懂也要读懂系列01｜GPT 它爸，造了个不会聊天的 AI</h2>
+          <p>写给完全不懂的人看的 Jev 科普。从「一个不会说话的 AI 有什么用」讲起，把 Jev 为什么快、为什么便宜、能干什么活，一次讲清。读完再看下面的视频和长文，就不迷路了。</p>
+          <div class="starter-meta">
+            <span class="s-author">谁是专家</span>
+            <span>@dboy_yi2025</span>
+            <span>·</span>
+            <span>2026-09-18</span>
+            <span>·</span>
+            <span>1.8K 阅读</span>
+          </div>
+          <span class="starter-cta">阅读全文 →</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <!-- FEATURED -->
+  <section class="section" id="featured">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>编辑精选</h2>
+        <p>按互动量排序的高热动态：官方发布、爆款演示与深度长文。</p>
+      </div>
+      <div class="featured-grid" id="featuredGrid"></div>
+    </div>
+  </section>
+
+  <!-- GALLERY -->
+  <section class="section" id="gallery">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>全部动态</h2>
+        <p>支持按类型、语言与主题筛选，点击任意卡片跳转原帖。</p>
+      </div>
+
+      <div class="filters">
+        <div class="filter-row">
+          <span class="filter-label">类型</span>
+          <div class="chips" id="typeChips"></div>
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">语言</span>
+          <div class="chips" id="langChips"></div>
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">主题</span>
+          <div class="chips" id="tagChips"></div>
+        </div>
+        <div class="filter-row search-row">
+          <input id="search" type="search" placeholder="搜索作者、关键词，如 codex / computer use / 长文…">
+          <span class="result-count" id="resultCount"></span>
+        </div>
+      </div>
+
+      <div class="grid" id="grid"></div>
+      <div class="load-more-wrap">
+        <button class="btn btn-ghost" id="loadMore">加载更多</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section section-alt" id="about">
+    <div class="wrap about">
+      <div class="about-col">
+        <h3>这是什么</h3>
+        <p>一个针对 Jev 的实时聚合站。数据来自 X（Twitter）公开搜索结果，覆盖过去 24 小时内提及 Jev / TypeSafe AI 的长文、演示视频与讨论，按时间与互动量整理。</p>
+      </div>
+      <div class="about-col">
+        <h3>来源与版权</h3>
+        <p>本站不转载、不二次托管任何内容。每条动态均标注原作者与发布时间，并直链 X 原帖。所有文字、图片、视频版权归原作者所有。</p>
+      </div>
+      <div class="about-col">
+        <h3>官方入口</h3>
+        <ul class="links">
+          <li><a href="https://typesafe.ai" target="_blank" rel="noopener">typesafe.ai · 官网</a></li>
+          <li><a href="https://openrouter.ai/typesafe/jev" target="_blank" rel="noopener">OpenRouter · Jev</a></li>
+          <li><a href="https://vercel.com/ai-gateway" target="_blank" rel="noopener">Vercel AI Gateway</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap footer-inner">
+    <p>JEV 24小时 · 数据抓取于 <span id="genAt">—</span> · 仅作信息聚合，版权归原作者所有</p>
+    <p class="footer-sub">整理：<a href="https://x.com/dboy_yi2025" target="_blank" rel="noopener">@dboy_yi2025</a></p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
